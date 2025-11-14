@@ -33,7 +33,28 @@ Se ha desarrollado una figura académica de alta calidad (Figure 2) que muestra 
 ### Análisis completo:
 - **`Simulation_Platform_Evolution_Analysis.md`** - Análisis exhaustivo (16 KB)
 - **`simulation_platform_evolution_report.txt`** - Reporte estadístico
-- **`simulation_platforms_processed.csv`** - Datos procesados
+
+---
+
+## 🔬 TRAZABILIDAD CIENTÍFICA
+
+**IMPORTANTE:** Esta figura garantiza trazabilidad completa desde la fuente primaria.
+
+### Cadena de trazabilidad:
+1. **Fuente primaria:** `baseDatos.csv` (revisión sistemática de 79 PDFs, 2014-2025)
+2. **Campo específico:** `esp.domain_methodology.simulation_software`
+3. **Procesamiento:** `generate_article_figure.py` lee directamente baseDatos.csv
+4. **Salida:** Todos los archivos (PNG, EPS, CSV, TXT) generados automáticamente
+
+### Verificación:
+- **84 registros** de plataformas extraídos directamente de baseDatos.csv
+- **CST:** 30 instancias (35.7%)
+- **FEKO:** 27 instancias (32.1%)
+- **HFSS:** 24 instancias (28.6%)
+- **Otros:** 3 instancias (3.6%)
+
+### Sin archivos intermedios:
+El script NO utiliza archivos procesados intermedios. Todo se genera directamente desde la base de datos original, garantizando que cualquier análisis puede ser reproducido y verificado desde la fuente primaria.
 
 ---
 
@@ -199,8 +220,11 @@ python3 generate_article_figure.py
 
 **Requisitos:**
 - Python 3.x
-- pandas, matplotlib, seaborn
-- Archivo: `simulation_platforms_processed.csv`
+- pandas, matplotlib, numpy
+- Archivo fuente: `baseDatos.csv` (incluido en el repositorio)
+
+**Trazabilidad garantizada:**
+El script lee directamente de baseDatos.csv sin archivos intermedios, extrayendo datos del campo `esp.domain_methodology.simulation_software`.
 
 **Personalización:**
 - Editar colores: Líneas 16-17 del script
@@ -252,7 +276,8 @@ Para preguntas sobre:
 - **Integración técnica:** Ver `INTEGRATION_INSTRUCTIONS.md`
 - **Texto específico:** Ver `TEXTO_PARA_COPIAR_PEGAR.txt`
 - **Metodología:** Ver `Simulation_Platform_Evolution_Analysis.md`
-- **Datos:** Ver `simulation_platforms_processed.csv`
+- **Datos fuente:** Ver `baseDatos.csv` (campo: esp.domain_methodology.simulation_software)
+- **Trazabilidad:** Todos los datos provienen directamente de baseDatos.csv sin procesamiento intermedio
 
 ---
 

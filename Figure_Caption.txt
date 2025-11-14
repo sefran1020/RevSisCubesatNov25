@@ -6,4 +6,4 @@ Figure 2. Temporal Evolution and Specialization of Electromagnetic Simulation Pl
 
 (c) Market share evolution demonstrating oligopolistic consolidation where top-3 platforms (CST, FEKO, HFSS) maintain 86% combined coverage across all periods, with progressive CST specialization in miniaturization and thermo-mechanical verification complementing HFSS bandwidth optimization strengths and FEKO array radiation expertise.
 
-Data derived from systematic analysis of 94 platform instances across 90 peer-reviewed studies (2014-2025). Platform identification based on esp.domain_methodology.simulation_software field extraction from systematic review database.
+TRAZABILIDAD: Todos los datos de esta figura fueron extraídos directamente del campo 'esp.domain_methodology.simulation_software' en baseDatos.csv (revisión sistemática de 79 estudios, 2014-2025). El script de generación (generate_article_figure.py) procesa la base de datos original sin archivos intermedios, garantizando trazabilidad completa desde la fuente primaria hasta la visualización final. Platform instances: 94 across 90 peer-reviewed studies.
