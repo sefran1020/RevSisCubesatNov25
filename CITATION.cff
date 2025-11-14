@@ -1,0 +1,107 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Bridging Component Optimization and System Integration:
+  Systematic Evidence of Workflow Discontinuities in
+  Microstrip Antenna Design for Small Satellite Platforms
+message: >-
+  If you use this dataset or findings from this systematic
+  review, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: '[Author First Name]'
+    family-names: '[Author Last Name]'
+    email: '[author@institution.edu]'
+    affiliation: '[Institution Name]'
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+  - given-names: '[Co-author First Name]'
+    family-names: '[Co-author Last Name]'
+    email: '[coauthor@institution.edu]'
+    affiliation: '[Institution Name]'
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+repository-code: 'https://github.com/[username]/[repository-name]'
+url: 'https://github.com/[username]/[repository-name]'
+abstract: >-
+  CubeSat missions increasingly demand reliable antenna
+  subsystems for high-data-rate communication within severe
+  constraints. Despite two decades of development,
+  systematic understanding of workflows translating design
+  specifications into mission-ready systems remains
+  fragmented. This systematic review synthesizes empirical
+  workflow configurations in CubeSat antenna design,
+  analyzing relationships between electromagnetic
+  simulation, experimental validation, feeding integration,
+  and fabrication processes. Following PRISMA 2020
+  guidelines, multidatabase searches yielded 551 records,
+  with 79 studies meeting rigorous criteria after systematic
+  screening. Synthesis utilized convergent
+  engineering-evidence methodology. Four dominant
+  configurations emerged: electromagnetic simulation-guided
+  optimization revealed HFSS, CST, and FEKO as foundational
+  platforms achieving robust measurement agreement, yet
+  critical algorithm parameters were frequently omitted.
+  Experimental validation showed anechoic chambers and
+  vector network analyzers as dominant approaches, with
+  comprehensive multi-domain testing underrepresented.
+  Feeding element integration exposed discontinuities
+  between optimization and system requirements. Fabrication
+  analysis identified PCB prototyping and advanced
+  technologies with systematic documentation gaps.
+  Extraordinary electromagnetic sophistication coexists with
+  profound integration deficiencies in thermal validation,
+  mechanical integration, and platform interaction modeling.
+  Mission-ready workflows require paradigm shift from
+  isolated electromagnetic optimization to integrated system
+  modeling, addressing critical vulnerabilities as CubeSat
+  missions transition to operational constellation
+  deployment.
+keywords:
+  - CubeSat antennas
+  - electromagnetic simulation workflows
+  - experimental validation protocols
+  - system integration gaps
+  - microstrip antenna fabrication
+  - systematic review
+  - PRISMA 2020
+  - small satellites
+  - nanosatellites
+  - antenna design
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-11-13'
+identifiers:
+  - type: doi
+    value: '[DOI will be assigned]'
+    description: 'DOI for the published article'
+references:
+  - type: article
+    title: >-
+      Bridging Component Optimization and System Integration:
+      Systematic Evidence of Workflow Discontinuities in
+      Microstrip Antenna Design for Small Satellite Platforms
+    authors:
+      - family-names: '[Author Last Name]'
+        given-names: '[Author First Name]'
+    year: 2025
+    journal: '[Journal Name]'
+    doi: '[DOI pending]'
+preferred-citation:
+  type: article
+  title: >-
+    Bridging Component Optimization and System Integration:
+    Systematic Evidence of Workflow Discontinuities in
+    Microstrip Antenna Design for Small Satellite Platforms
+  authors:
+    - family-names: '[Author Last Name]'
+      given-names: '[Author First Name]'
+    - family-names: '[Co-author Last Name]'
+      given-names: '[Co-author First Name]'
+  year: 2025
+  journal: '[Journal Name]'
+  volume: '[Volume]'
+  issue: '[Issue]'
+  start: '[Start Page]'
+  end: '[End Page]'
+  doi: '[DOI pending]'

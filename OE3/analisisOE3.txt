@@ -1,0 +1,258 @@
+# Trazabilidad Detallada de Estudios por Objetivo
+
+## **OBJETIVO ESPECÍFICO 1**
+### Analizar la relación entre las herramientas de simulación electromagnética y las recomendaciones de optimización de diseño
+
+**Base empírica:** n ≈ 50 estudios | **Robustez:** Alta | **Relación:** Association
+
+---
+
+### **Grupo A: Electromagnetic Simulation Software + Design Optimization Recommendations (n≈18)**
+
+1. **Puerto-Leguizamón, G. A.-2016**: HFSS simulation → Performance optimization recommendations
+2. **Matekovits, L.-2021**: CST Microwave Studio → Antenna geometry optimization
+3. **Ali F. Almutairi-2021**: HFSS simulation → Design parameter optimization
+4. **Khalid Alrushud-2023**: CST simulation → Compact design optimization
+5. **MENDONÇA, MARCELE O. K.-2024**: Genetic Algorithm + EM simulation → Array optimization
+6. **Amine Bab-2023**: HFSS simulation → Performance enhancement recommendations
+7. **Haykel Chaabane-2018**: HFSS + Genetic Algorithm → Design optimization
+8. **Walid Chekkar-2022**: EM simulation tools → Multi-band optimization
+9. **Koushik Guha-2025**: RF-MEMS + simulation → Reconfigurable design optimization
+10. **Ananjan Basu-2023**: HFSS simulation → Bandwidth and gain optimization
+11. **DiCarlofelice, A.-2022**: CST simulation → Miniaturization optimization
+12. **Joseph E. Diener-2017**: Genetic Algorithm + simulation → Phased array optimization
+13. **Mohamed El Bakkali-2018**: HFSS + optimization algorithms → Performance improvement
+14. **El Gholb, Y.-2019**: HFSS simulation → Parasitic element optimization
+15. **Faisel Tubbal-2022**: EM simulation → Bandwidth enhancement optimization
+16. **Darwish, S.M.-2024**: CST simulation → Dual-band optimization
+17. **Mohamed El Hammoumi-2021**: HFSS simulation → Ka-band design optimization
+18. **Danai Torrungrueng-2025**: FEKO simulation → Circular polarization optimization
+
+---
+
+### **Grupo B: Full-wave EM Simulation + Optimization (n≈15)**
+
+19. **Sunghee Lee-2018**: HFSS full-wave simulation → Dual-band bidirectional optimization
+20. **Robert Lehmensiek-2017**: EM simulation → Wideband CP optimization
+21. **Rzymowski, M.-2021**: CST simulation → High-gain array optimization
+22. **Wenquan Che-2021**: HFSS simulation → C-band feeding network optimization
+23. **Lei Wang-2024**: CST simulation → 3D-printed FSP optimization
+24. **R.R.-2020**: HFSS simulation → Multi-angle deployment optimization
+25. **Liu, W.-C.-2019**: EM simulation → Compact Yagi optimization
+26. **K. El Khadiri-2025**: CST + metasurface simulation → Gain enhancement optimization
+27. **Abd-Elmonieum, S. I.-2023**: HFSS simulation → Pixel patch miniaturization
+28. **Beibit A. Karibayev-2022**: EM simulation → Dual-band shared aperture optimization
+29. **Nascetti, A.-2014**: HFSS simulation → S-band system optimization
+30. **Gilda Priscila-2022**: CST simulation → Thermal-mechanical optimization
+31. **Mahmoud Rajab-2018**: HFSS simulation → Stacked substrate optimization
+32. **Saeidi, T.-2025**: EM simulation → Beamsteering optimization
+33. **Nicola Curreli-2021**: HFSS + multiphysics → LEO mission optimization
+
+---
+
+### **Grupo C: Simulation Software Variety + Optimization Strategies (n≈17)**
+
+34. **S.T.-V.-2021**: FEKO simulation → Radiation pattern optimization
+35. **J. Francesc Munoz-Martin-2023**: HFSS simulation → Ka-band LHCP optimization
+36. **Humberto Lobato-Morales-2016**: CST simulation → Circular polarization optimization
+37. **François Torres-2017**: EM simulation → UHF/VHF optimization
+38. **S. Gunaseelan-2016**: HFSS simulation → High-gain C-band optimization
+39. **M. Mubasshir Hossain-2021**: CST simulation → Compact patch optimization
+40. **Hossen, M.S.-2021**: HFSS simulation → S-band optimization
+41. **Raynell A. Inojosa-2023**: EM simulation → Fractal antenna optimization
+42. **M. T. Islam-2015**: HFSS simulation → HORYU-IV mission optimization
+43. **M. T. Islam-2014**: HFSS simulation → CP patch optimization
+44. **Zhu, L.-2025**: CST simulation → Array thinning optimization
+45. **Jiménez, D.A.-2023**: HFSS simulation → 5G dual-band optimization
+46. **Johnson, A.-2020**: EM simulation → Reconfigurable monopole-patch optimization
+47. **Vladimir A. Juarez-Ortiz-2018**: HFSS simulation → C-band array optimization
+48. **M.H.K.-2023**: CST simulation → Shared aperture S/X-band optimization
+49. **Syed Salman Kabir-2022**: HFSS simulation → UHF/C-band optimization
+50. **Kakoyiannis, C. G.-2008**: EM simulation → Low-cost CP optimization
+
+---
+
+## **OBJETIVO ESPECÍFICO 2**
+### Evaluar la alineación entre los instrumentos de prueba experimental y las recomendaciones de validación
+
+**Base empírica:** n ≈ 50 estudios | **Robustez:** Alta | **Relación:** Complementarity
+
+---
+
+### **Grupo A: Anechoic Chamber Measurements + Validation Recommendations (n≈20)**
+
+1. **Puerto-Leguizamón, G. A.-2016**: Anechoic chamber → Further testing validation recommendations
+2. **Matekovits, L.-2021**: Anechoic chamber far-field → Performance validation recommendations
+3. **Ali F. Almutairi-2021**: Anechoic chamber → Experimental validation recommendations
+4. **Khalid Alrushud-2023**: Anechoic chamber → Real-world testing recommendations
+5. **Koushik Guha-2025**: Anechoic chamber → Validation in different configurations
+6. **Ananjan Basu-2023**: Anechoic chamber → Environmental testing recommendations
+7. **DiCarlofelice, A.-2022**: Anechoic chamber → Fabrication validation recommendations
+8. **El Gholb, Y.-2019**: Anechoic chamber → Measurement validation recommendations
+9. **S.T.-V.-2021**: Anechoic chamber → Testing in operational conditions
+10. **Darwish, S.M.-2024**: Anechoic chamber → Vibration/shock testing recommendations
+11. **J. Francesc Munoz-Martin-2023**: Anechoic chamber + TVAC → Space environment validation
+12. **François Torres-2017**: Anechoic chamber → UHF validation recommendations
+13. **Danai Torrungrueng-2025**: Anechoic chamber → Additional testing recommendations
+14. **Raynell A. Inojosa-2023**: Anechoic chamber → Real-world validation
+15. **M. T. Islam-2015**: Anechoic chamber + KYUTECH Lab → CubeSat integration validation
+16. **Jiménez, D.A.-2023**: Anechoic chamber → 5G application validation
+17. **Johnson, A.-2020**: Anechoic chamber → Reconfiguration testing recommendations
+18. **Rzymowski, M.-2021**: Anechoic chamber → Array validation recommendations
+19. **Lei Wang-2024**: Anechoic chamber → 3D-printing validation
+20. **R.R.-2020**: Anechoic chamber → Multi-angle validation testing
+
+---
+
+### **Grupo B: Vector Network Analyzer (VNA) + Impedance Validation (n≈15)**
+
+21. **K. El Khadiri-2025**: VNA (S-parameters) → Design validation recommendations
+22. **Abd-Elmonieum, S. I.-2023**: VNA → Impedance matching validation
+23. **Beibit A. Karibayev-2022**: VNA → Dual-band validation testing
+24. **Fawzy Ibrahim-2018**: VNA (ROHDE&SCHARZ) → Manufacturing tolerance validation
+25. **Gustavo A. Puerto-Leguizamón-2017**: VNA → Reconfigurable validation testing
+26. **Nguyen, V.C.-2021**: VNA → S-band validation recommendations
+27. **Ta, L.P.-2025**: VNA → X-band validation testing
+28. **Monai Krairiksh-2024**: VNA → Tri-band validation recommendations
+29. **Kai Xue-2016**: VNA → GPS/S-band validation
+30. **Humberto Lobato-Morales-2016**: VNA → CP validation recommendations
+31. **Zhu, L.-2025**: VNA + Satimo Starlab → Array validation testing
+32. **M.H.K.-2023**: Keysight PNA-L VNA → Shared aperture validation
+33. **S.T.-V.-2021**: VNA → Return loss validation recommendations
+34. **Darwish, S.M.-2024**: VNA → Multi-band validation testing
+35. **Not mentioned-2025**: VNA → Bandwidth validation recommendations
+
+---
+
+### **Grupo C: Specialized Measurement Systems + Validation (n≈8)**
+
+36. **Ali F. Almutairi-2021**: Satimo Starlab → Radiation pattern validation
+37. **M. T. Islam-2015**: Satimo Starlab + TVAC → Space mission validation
+38. **Zhu, L.-2025**: Satimo Starlab → Near-field validation testing
+39. **DiCarlofelice, A.-2022**: Specialized setup → Multi-layer validation
+40. **Nascetti, A.-2014**: Measurement system → Earth-observing validation
+41. **Pittella, E.-2018**: Testing system → Reconfigurable validation
+42. **Gilda Priscila-2022**: Testing instruments → Thermal validation recommendations
+43. **Saeidi, T.-2025**: Measurement system → Beamsteering validation testing
+
+---
+
+### **Grupo D: Combined Testing Approaches + Comprehensive Validation (n≈7)**
+
+44. **SALEHIN KIBRIA-2018**: Anechoic + VNA → BIRDS-1 integration validation
+45. **Vinsensius Sigit Widhi Prabowo-2020**: Anechoic + VNA → ADS-B validation testing
+46. **Vasilii Semkin-2018**: Anechoic chamber → Arctic mission validation
+47. **Nicola Curreli-2021**: Multiphysics testing → LEO environmental validation
+48. **Panagiotis Ioannis Theoharis-2021**: Measurement system → LHCP validation
+49. **N. Thunyakaset-2021**: Testing setup → Tri-band validation
+50. **Faisel Tubbal-2015**: Anechoic + measurements → GPS validation testing
+
+---
+
+## **OBJETIVO ESPECÍFICO 3**
+### Integrar el diseño de elementos de alimentación con enfoques de simulación y recomendaciones de integración
+
+**Base empírica:** n ≈ 14 estudios | **Robustez:** Alta (feeding-simulation) / Baja (system integration)
+
+---
+
+### **Grupo A: Single-Feed Design + EM Simulation + Optimization (n≈9)**
+
+1. **Sunghee Lee-2018**: Single-feed impedance transformer + HFSS → Dual-band optimization
+2. **Rzymowski, M.-2021**: Single-feed microstrip + CST → High-gain array optimization
+3. **M. T. Islam-2015**: CP single-feed hexagonal patch + HFSS → HORYU-IV integration
+4. **Vasilii Semkin-2018**: Single-feed design + simulation → Arctic mission integration
+5. **Nicola Curreli-2021**: Single-feed + multiphysics → LEO thermal integration
+6. **Nguyen, V.C.-2021**: Single-feed slot-integrated + simulation → S-band integration
+7. **Ta, L.P.-2025**: Single-feed square slot + CST → X-band system integration
+8. **Panagiotis Ioannis Theoharis-2021**: Single-feed CP + simulation → LHCP integration
+9. **N. Thunyakaset-2021**: Single-feed tri-band + HFSS → Multi-frequency integration
+
+---
+
+### **Grupo B: Coaxial/Probe Feeding + Simulation + System Integration (n≈8)**
+
+10. **Liu, W.-C.-2019**: 50-Ω SMA probe + EM simulation → ADS-B integration
+11. **Sayeed Sajal-2018**: Coaxial probe + HFSS → UHF integration
+12. **Mengu Cho-2015**: Probe feed + simulation → Optical-antenna integration
+13. **SALEHIN KIBRIA-2018**: Folded meander probe + HFSS → BIRDS-1 integration
+14. **Gilda Priscila-2022**: Coaxial feed + CST → Thermal-mechanical integration
+15. **Fawzy Ibrahim-2018**: Probe feeding + simulation → Manufacturing integration
+16. **Ta, L.P.-2025**: Coaxial probe + CST → Compact integration
+17. **Abd-Elmonieum, S. I.-2023**: Driven-Shorting Post + HFSS → Pixel patch integration
+
+---
+
+### **Grupo C: Complex Feeding Networks + Simulation + Limited System Integration (n≈4)**
+
+18. **Robert Lehmensiek-2017**: Sequential-phase network + simulation → Wideband CP (low system integration)
+19. **Lei Wang-2024**: Five-port coupler network + CST → 3D-printed array (low system integration)
+20. **Gustavo A. Puerto-Leguizamón-2017**: 90° hybrid coupler + simulation → Reconfigurable (low system integration)
+21. **Kai Xue-2016**: Sequential feeding network + HFSS → GPS/S-band (low system integration)
+
+---
+
+### **Grupo D: Specialized Feeding + Simulation (Gap in System Integration) (n≈3)**
+
+22. **Wenquan Che-2021**: Annular aperture dual-port + HFSS → **Gap**: Limited CubeSat body integration
+23. **Mahmoud Rajab-2018**: Strip line feed + simulation → **Gap**: No deployment integration
+24. **Saeidi, T.-2025**: Transmission line feed + EM simulation → **Gap**: No beamforming IC integration
+
+---
+
+## **OBJETIVO ESPECÍFICO 4**
+### Comparar configuraciones de procesos de prototipado y fabricación con recomendaciones de eficiencia
+
+**Base empírica:** n ≈ 9 estudios | **Robustez:** Media
+
+---
+
+### **Grupo A: PCB Prototyping + Fabrication Recommendations (n≈6)**
+
+1. **Khalid Alrushud-2023**: PCB prototyping → Miniaturization recommendations
+2. **Humberto Lobato-Morales-2016**: PCB prototyping → CP fabrication recommendations
+3. **J. Francesc Munoz-Martin-2023**: Photolithographic fabrication → Ka-band manufacturing recommendations
+4. **Danai Torrungrueng-2025**: PCB prototyping machine → Cost-effective fabrication
+5. **M.H.K.-2023**: Fabrication process → Shared aperture manufacturing
+6. **Not mentioned-2015**: Fabricated antenna array → Experimental validation recommendations
+
+---
+
+### **Grupo B: Advanced Fabrication Technologies + Efficiency (n≈4)**
+
+7. **Lei Wang-2024**: 3D metal printing + PCB → Consistent FSP fabrication + efficiency recommendations
+8. **Mahmoud Rajab-2018**: Stacked substrate fabrication → Performance enhancement recommendations
+9. **Monai Krairiksh-2024**: AMC array fabrication → Simplification + cost reduction recommendations
+10. **Nicola Curreli-2021**: Advanced fabrication + thermal testing → LEO mission efficiency
+
+---
+
+### **Grupo C: Cost-Effective Manufacturing + Scalability (n≈3)**
+
+11. **DiCarlofelice, A.-2022**: Multilayer structure fabrication → Mass production recommendations
+12. **Johnson, A.-2020**: 3D-printed plastic + adhesive tapes → Weight/cost reduction recommendations
+13. **Not mentioned-2025**: Material selection + fabrication → Manufacturing complexity reduction
+
+---
+
+## **RESUMEN CUANTITATIVO DE TRAZABILIDAD**
+
+| Objetivo | Total Estudios | Grupos Identificados | Estudios/Grupo Promedio |
+|----------|----------------|---------------------|------------------------|
+| **Obj. 1** | n ≈ 50 | 3 grupos principales | 15-18 estudios |
+| **Obj. 2** | n ≈ 50 | 4 grupos principales | 7-20 estudios |
+| **Obj. 3** | n ≈ 14 | 4 grupos (incluye gaps) | 3-9 estudios |
+| **Obj. 4** | n ≈ 9 | 3 grupos principales | 3-6 estudios |
+
+---
+
+## **LEYENDA DE NOMENCLATURA**
+
+- **→** : Relación directa entre instrumento/método y recomendación
+- **+** : Combinación de herramientas/métodos
+- **Gap**: Brecha identificada en cobertura empírica
+- **n≈**: Número aproximado de estudios (algunos aparecen en múltiples grupos)
+
+---
+
+**Nota metodológica:** Los estudios pueden aparecer en múltiples grupos debido a que utilizan varias herramientas/métodos simultáneamente, reflejando la naturaleza multidimensional del análisis inductivo.

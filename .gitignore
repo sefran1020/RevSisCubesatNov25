@@ -1,0 +1,191 @@
+# Revisión Sistemática CubeSat - .gitignore
+
+# ============================================================================
+# Archivos temporales de Office
+# ============================================================================
+~$*.xlsx
+~$*.xls
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+*.tmp
+
+# ============================================================================
+# Archivos de sistema
+# ============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ============================================================================
+# Archivos de respaldo
+# ============================================================================
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# ============================================================================
+# Carpetas de trabajo temporal (descomentar si es necesario)
+# ============================================================================
+# /temp/
+# /tmp/
+# /working/
+
+# ============================================================================
+# Archivos sensibles o personales
+# ============================================================================
+# Credenciales y configuración personal
+*.key
+*.pem
+credentials.json
+config.local.*
+
+# Notas personales
+notes_personal/
+TODO_personal.txt
+
+# ============================================================================
+# Archivos grandes opcionales (descomentar si necesario)
+# ============================================================================
+# Si los PDFs son muy grandes y se alojan en otro repositorio
+# articulosPDF/*.pdf
+
+# Archivos de datos intermedios grandes
+# *.large.csv
+# *.processed.xlsx
+
+# ============================================================================
+# Carpetas de análisis computacional (si aplica)
+# ============================================================================
+# Resultados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# MATLAB
+*.asv
+*.m~
+
+# ============================================================================
+# Software de gestión de referencias
+# ============================================================================
+# Mendeley
+*.bib.bak
+*.bib.sav
+
+# Zotero
+zotero.sqlite
+zotero.sqlite.bak
+
+# EndNote
+*.Data/
+*.enl
+
+# ============================================================================
+# LaTeX (si se generó el artículo con LaTeX)
+# ============================================================================
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.synctex.gz
+*.blg
+*.bbl
+*.bcf
+*.run.xml
+
+# ============================================================================
+# Archivos de compilación
+# ============================================================================
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# ============================================================================
+# IDEs y Editores
+# ============================================================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# ============================================================================
+# Control de versiones
+# ============================================================================
+.git/
+*.orig
+
+# ============================================================================
+# Archivos de log y debug
+# ============================================================================
+*.log
+*.debug
+error.txt
+debug_output/
+
+# ============================================================================
+# IMPORTANTE: Archivos que SÍ deben incluirse
+# ============================================================================
+# Los siguientes archivos DEBEN estar en el repositorio:
+# !README.md
+# !LICENSE
+# !CITATION.cff
+# !articulo2a.pdf
+# !nuevoCubeSat.ris
+# !recoleccion/*.csv
+# !recoleccion/*.xlsx
+# !screening/*.csv
+# !screening/*.xlsx
+# !OE*/*.csv
+# !OE*/*.txt
+# !objetive-dataDriven/*.xlsx
+# !objetive-dataDriven/*.txt
+# !articulosPDF/*.pdf (79 archivos)

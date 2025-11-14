@@ -1,0 +1,67 @@
+# Lógica de Revisión Sistemática para Antenas de CubeSat
+
+## Pregunta de Investigación
+
+**¿Cómo se configuran empíricamente los flujos de trabajo de diseño de antenas en investigación de CubeSat, integrando simulación electromagnética, validación experimental y optimización de especificaciones técnicas para mejorar el rendimiento y la confiabilidad?**
+
+---
+
+## Objetivo General
+
+**Sintetizar** las configuraciones empíricas de los flujos de trabajo de diseño de antenas en investigación de CubeSat, integrando prácticas de simulación, validación experimental y optimización para mejorar la confiabilidad y el rendimiento del sistema.
+
+---
+
+## Objetivos Específicos
+
+### 1. **Analizar** la relación entre las herramientas de simulación electromagnética y las recomendaciones de optimización de diseño para la mejora del rendimiento de antenas en aplicaciones CubeSat.
+
+**Fundamentación empírica:** 
+- ~50 estudios de soporte
+- Robustez: Alta
+- Cobertura en eje "Simulation-to-Validation Workflow"
+- Configuración recurrente dominante identificada
+
+---
+
+### 2. **Evaluar** la alineación entre los instrumentos de prueba experimental (VNA, cámaras anecoicas) y las recomendaciones de validación en el desarrollo de antenas para pequeños satélites.
+
+**Fundamentación empírica:**
+- ~50 estudios de soporte
+- Robustez: Alta
+- Complementariedad natural entre instrumentos de medición y prácticas de validación
+- Componente clave del workflow empírico
+
+---
+
+### 3. **Integrar** el diseño de elementos de alimentación con los enfoques de simulación y las recomendaciones de integración de sistemas, identificando brechas críticas en optimización y validación.
+
+**Fundamentación empírica:**
+- ~14 estudios de soporte
+- Robustez: Alta (feeding-simulation), Baja (system integration)
+- Eje emergente "Feeding Design and System Integration" (10-15% cobertura)
+- Configuración problemática identificada que requiere atención
+
+---
+
+### 4. **Comparar** las configuraciones de procesos de prototipado y fabricación con sus recomendaciones de eficiencia, escalabilidad y reducción de costos en el desarrollo de antenas.
+
+**Fundamentación empírica:**
+- ~9 estudios de soporte
+- Robustez: Media
+- Eje emergente "Prototyping and Fabrication Efficiency" (5-10% cobertura)
+- Configuración recurrente con potencial de aplicabilidad práctica
+
+---
+
+## Justificación Metodológica
+
+Esta estructura responde al enfoque **"Empirical Workflow Configurations"** recomendado por:
+
+✓ **Cobertura estimada:** 85% de los 90 estudios analizados  
+✓ **Fundamentación inductiva:** Basado en relaciones de alta robustez identificadas  
+✓ **Escalabilidad:** Aplicable a revisiones con diferentes tamaños de corpus  
+✓ **Coherencia dimensional:** Integra instrumentos de recolección, especificaciones técnicas y recomendaciones  
+✓ **Balance:** Combina áreas bien documentadas (Obj. 1-2) con brechas críticas (Obj. 3-4)
+
+Los análisis temático, de contenido, narrativo y síntesis crítica profunda se implementarán sistemáticamente en cada objetivo para garantizar la exhaustividad y rigor metodológico de la revisión.

@@ -1,0 +1,188 @@
+"fase3_objetivos_data_driven": {
+    "formulaciones": [
+      {
+        "enfoque": "Empirical Workflow Configurations",
+        "justificacion": "This approach is grounded in the dominant simulation-to-validation axis (60-70% coverage) and high-robustness relationships, reflecting how studies naturally organize around integrated simulation, testing, and validation processes without imposing external frameworks.",
+        "objetivo_general": "To synthesize the empirical configurations of antenna design workflows in CubeSat research, integrating simulation, validation, and optimization practices to enhance reliability and performance.",
+        "objetivos_especificos": [
+          {
+            "texto": "Investigate the relationship between electromagnetic simulation tools and design optimization recommendations for antenna performance enhancement.",
+            "campos_clave": [
+              "data_collection_instruments",
+              "recommendations"
+            ],
+            "n_estudios_soporte": "~50",
+            "tipo_analisis": "relational",
+            "productos_esperados": [
+              "Correlation Table of Simulation-Optimization Pairs",
+              "Synthesis Matrix of Performance Outcomes",
+              "Figure on Tool-Recommendation Frequencies"
+            ]
+          },
+          {
+            "texto": "Examine the alignment between experimental testing instruments (e.g., VNAs, anechoic chambers) and validation recommendations in antenna studies.",
+            "campos_clave": [
+              "data_collection_instruments",
+              "recommendations"
+            ],
+            "n_estudios_soporte": "~50",
+            "tipo_analisis": "comparative",
+            "productos_esperados": [
+              "Comparative Analysis Table of Testing Methods",
+              "Figure on Instrument-Validation Patterns",
+              "Synthesis of Effectiveness Metrics"
+            ]
+          },
+          {
+            "texto": "Analyze how feeding element designs influence simulation approaches and system integration recommendations, focusing on optimization and validation gaps.",
+            "campos_clave": [
+              "technical_specifications.feeding_element_design",
+              "data_collection_instruments",
+              "recommendations"
+            ],
+            "n_estudios_soporte": "~14",
+            "tipo_analisis": "relational",
+            "productos_esperados": [
+              "Relational Diagram of Feeding-Integration Links",
+              "Synthesis Table of Design Impacts",
+              "Figure on Simulation-Feeding Overlaps"
+            ]
+          }
+        ],
+        "cobertura_estimada": "85%",
+        "ventajas": [
+          "High coverage due to focus on dominant workflow patterns",
+          "Directly grounded in robust empirical relationships",
+          "Facilitates relational and comparative analyses across dimensions"
+        ],
+        "limitaciones": [
+          "Potential overlap between simulation and testing objectives",
+          "Lower representation of prototyping aspects due to coverage constraints"
+        ],
+        "generalizabilidad": "Yes, this structure scales well for reviews with more studies by maintaining workflow focus, and for fewer studies by concentrating on high-frequency patterns."
+      },
+      {
+        "enfoque": "Multidimensional Relationship Analysis",
+        "justificacion": "This approach leverages the recurrent dominant patterns across data collection instruments, recommendations, and technical specifications, ensuring comprehensive coverage and alignment with high-robustness empirical relationships without theoretical assumptions.",
+        "objetivo_general": "To synthetically analyze the empirical relationships between key dimensions in CubeSat antenna research, including data collection methods, recommendations, and technical specifications, for holistic insights.",
+        "objetivos_especificos": [
+          {
+            "texto": "Correlate data collection instruments (simulation and testing) with recommendation types (optimization and validation) to identify prevalent empirical patterns.",
+            "campos_clave": [
+              "data_collection_instruments",
+              "recommendations"
+            ],
+            "n_estudios_soporte": "~70",
+            "tipo_analisis": "relational",
+            "productos_esperados": [
+              "Correlation Matrix of Instrument-Recommendation Pairs",
+              "Synthesis of Pattern Frequencies",
+              "Figure on Dimension Interactions"
+            ]
+          },
+          {
+            "texto": "Assess how technical specifications, particularly feeding element design, impact data collection approaches and recommendation outcomes.",
+            "campos_clave": [
+              "technical_specifications.feeding_element_design",
+              "data_collection_instruments",
+              "recommendations"
+            ],
+            "n_estudios_soporte": "~14",
+            "tipo_analisis": "comparative",
+            "productos_esperados": [
+              "Comparative Table of Specification Influences",
+              "Synthesis of Design-Recommendation Links",
+              "Figure on Technical Impact Pathways"
+            ]
+          },
+          {
+            "texto": "Evaluate the association between prototyping processes and fabrication recommendations, focusing on efficiency and scalability in antenna development.",
+            "campos_clave": [
+              "prototyping_methods",
+              "fabrication_recommendations"
+            ],
+            "n_estudios_soporte": "~9",
+            "tipo_analisis": "relational",
+            "productos_esperados": [
+              "Association Table of Prototyping-Fabrication Pairs",
+              "Synthesis of Efficiency Metrics",
+              "Figure on Cost-Effectiveness Patterns"
+            ]
+          }
+        ],
+        "cobertura_estimada": "88%",
+        "ventajas": [
+          "Broad coverage across multiple dimensions",
+          "Encapsulates both high- and medium-coverage empirical patterns",
+          "Supports multidimensional comparative analysis"
+        ],
+        "limitaciones": [
+          "Slight risk of objective overlap in data collection and recommendation focus",
+          "Prototyping dimension has lower study support but meets >10 threshold marginally"
+        ],
+        "generalizabilidad": "Yes, adaptable to reviews with varying study counts by emphasizing dimension-based relationships, though prototyping focus may require adjustment for very small reviews."
+      },
+      {
+        "enfoque": "Optimization and Validation Synthesis",
+        "justificacion": "Centered on high-robustness relationships involving optimization and validation, this approach captures the core empirical patterns from simulation-to-validation workflows and feeding design, ensuring data-driven focus without aspirational elements.",
+        "objetivo_general": "To synthesize the empirical strategies for antenna performance optimization and validation in CubeSat research, integrating design, testing, and integration practices.",
+        "objetivos_especificos": [
+          {
+            "texto": "Investigate the correlation between design optimization recommendations and the use of electromagnetic simulation tools in antenna studies.",
+            "campos_clave": [
+              "recommendations",
+              "data_collection_instruments"
+            ],
+            "n_estudios_soporte": "~50",
+            "tipo_analisis": "relational",
+            "productos_esperados": [
+              "Relational Analysis Table",
+              "Synthesis of Optimization Methods",
+              "Figure on Simulation-Based Enhancements"
+            ]
+          },
+          {
+            "texto": "Examine how validation recommendations are linked to experimental testing instruments and their effectiveness in confirming design outcomes.",
+            "campos_clave": [
+              "recommendations",
+              "data_collection_instruments"
+            ],
+            "n_estudios_soporte": "~50",
+            "tipo_analisis": "comparative",
+            "productos_esperados": [
+              "Comparative Chart of Validation Approaches",
+              "Synthesis of Testing Effectiveness",
+              "Table on Instrument-Outcome Alignments"
+            ]
+          },
+          {
+            "texto": "Analyze the role of feeding element designs in driving optimization strategies and their validation through simulation and testing.",
+            "campos_clave": [
+              "technical_specifications.feeding_element_design",
+              "recommendations",
+              "data_collection_instruments"
+            ],
+            "n_estudios_soporte": "~14",
+            "tipo_analisis": "evaluative",
+            "productos_esperados": [
+              "Evaluation Synthesis of Feeding Impacts",
+              "Table on Design-Validation Links",
+              "Figure on Optimization Pathways"
+            ]
+          }
+        ],
+        "cobertura_estimada": "85%",
+        "ventajas": [
+          "Strong alignment with high-robustness empirical relationships",
+          "Focuses on performance-critical aspects without low-coverage elements",
+          "Enables evaluative and relational analyses for practical insights"
+        ],
+        "limitaciones": [
+          "Limited inclusion of prototyping efficiency due to coverage constraints",
+          "Potential redundancy in optimization-focused objectives"
+        ],
+        "generalizabilidad": "Yes, effective for reviews with similar emphasis on optimization and validation, scalable by adjusting specific objectives to study count."
+      }
+    ],
+    "recomendacion_final": "I recommend the 'Empirical Workflow Configurations' formulation due to its highest methodological rigor, as it is directly grounded in the dominant simulation-to-validation axis (60-70% coverage) and high-robustness relationships, ensuring comprehensive coverage (85%) and generalizability across study sizes. This approach best reflects the inductive, data-driven nature of the analysis without imposing external frameworks."
+  },

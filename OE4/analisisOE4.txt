@@ -1,0 +1,36 @@
+---
+
+## **OBJETIVO ESPECÍFICO 4**
+### Comparar configuraciones de procesos de prototipado y fabricación con recomendaciones de eficiencia
+
+**Base empírica:** n ≈ 9 estudios | **Robustez:** Media
+
+---
+
+### **Grupo A: PCB Prototyping + Fabrication Recommendations (n≈6)**
+
+1. **Khalid Alrushud-2023**: PCB prototyping → Miniaturization recommendations
+2. **Humberto Lobato-Morales-2016**: PCB prototyping → CP fabrication recommendations
+3. **J. Francesc Munoz-Martin-2023**: Photolithographic fabrication → Ka-band manufacturing recommendations
+4. **Danai Torrungrueng-2025**: PCB prototyping machine → Cost-effective fabrication
+5. **M.H.K.-2023**: Fabrication process → Shared aperture manufacturing
+6. **Not mentioned-2015**: Fabricated antenna array → Experimental validation recommendations
+
+---
+
+### **Grupo B: Advanced Fabrication Technologies + Efficiency (n≈4)**
+
+7. **Lei Wang-2024**: 3D metal printing + PCB → Consistent FSP fabrication + efficiency recommendations
+8. **Mahmoud Rajab-2018**: Stacked substrate fabrication → Performance enhancement recommendations
+9. **Monai Krairiksh-2024**: AMC array fabrication → Simplification + cost reduction recommendations
+10. **Nicola Curreli-2021**: Advanced fabrication + thermal testing → LEO mission efficiency
+
+---
+
+### **Grupo C: Cost-Effective Manufacturing + Scalability (n≈3)**
+
+11. **DiCarlofelice, A.-2022**: Multilayer structure fabrication → Mass production recommendations
+12. **Johnson, A.-2020**: 3D-printed plastic + adhesive tapes → Weight/cost reduction recommendations
+13. **Not mentioned-2025**: Material selection + fabrication → Manufacturing complexity reduction
+
+---

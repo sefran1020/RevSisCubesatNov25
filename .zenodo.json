@@ -1,0 +1,87 @@
+{
+  "title": "Bridging Component Optimization and System Integration: Systematic Evidence of Workflow Discontinuities in Microstrip Antenna Design for Small Satellite Platforms - Data Repository",
+  "description": "<p><strong>Systematic Review Data Repository</strong></p><p>This repository contains the complete dataset, analysis files, and supplementary materials for a systematic review examining empirical workflow configurations in CubeSat antenna design. Following PRISMA 2020 guidelines, we analyzed 79 studies from 551 initial records across four major databases.</p><p><strong>Key Contents:</strong></p><ul><li>Complete bibliographic database (551 records)</li><li>PRISMA screening data (phases 1-4)</li><li>79 included studies with full extraction</li><li>Analysis organized by 4 specific objectives</li><li>Inductive cross-study analysis</li><li>PDF collection of included articles</li></ul><p><strong>Main Findings:</strong></p><ul><li>Electromagnetic simulation: 85% achieving ±1.5 dB simulation-measurement agreement</li><li>Critical integration gaps: 71% feeding-to-system, 86% thermal validation deficiency</li><li>Workflow configurations: simulation-validation (60-70%), prototyping-fabrication (5-10%)</li><li>Four dominant validation approaches identified with systematic resource constraints</li></ul><p><strong>Data Structure:</strong></p><ul><li><code>recoleccion/</code>: Database search data (Scopus, IEEE, EBSCOhost, ScienceDirect)</li><li><code>screening/</code>: PRISMA screening process data</li><li><code>OE1/</code>: Objective 1 - Electromagnetic simulation (50 studies)</li><li><code>OE2/</code>: Objective 2 - Experimental validation (50 studies)</li><li><code>OE3/</code>: Objective 3 - Feeding integration (14 studies)</li><li><code>OE4/</code>: Objective 4 - Fabrication workflows (13 studies)</li><li><code>objetive-dataDriven/</code>: Inductive cross-study analysis</li><li><code>articulosPDF/</code>: 79 included articles (subject to publisher copyright)</li></ul><p>For detailed methodology, see PRISMA_METADATA.md</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "[Author Last Name, First Name]",
+      "affiliation": "[Institution Name]",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "[Co-author Last Name, First Name]",
+      "affiliation": "[Institution Name]",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "keywords": [
+    "CubeSat",
+    "microstrip antenna",
+    "patch antenna",
+    "systematic review",
+    "PRISMA 2020",
+    "electromagnetic simulation",
+    "experimental validation",
+    "antenna design",
+    "small satellites",
+    "nanosatellites",
+    "workflow analysis",
+    "system integration",
+    "HFSS",
+    "CST Microwave Studio",
+    "FEKO",
+    "antenna fabrication",
+    "research data"
+  ],
+  "subjects": [
+    {
+      "term": "Electrical engineering",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85041891.html",
+      "scheme": "url"
+    },
+    {
+      "term": "Antennas (Electronics)",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85005497.html",
+      "scheme": "url"
+    },
+    {
+      "term": "Space vehicles",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85125994.html",
+      "scheme": "url"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "[DOI of published article]",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/[username]/[repository-name]",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: 10.1136/bmj.n71"
+  ],
+  "communities": [
+    {
+      "identifier": "aerospace"
+    },
+    {
+      "identifier": "engineering"
+    }
+  ],
+  "grants": [
+    {
+      "id": "[Grant ID if applicable]"
+    }
+  ],
+  "version": "1.0",
+  "language": "eng",
+  "notes": "<strong>Data Quality and Reproducibility:</strong><ul><li>All data extracted from peer-reviewed sources</li><li>PRISMA 2020 protocol strictly followed</li><li>Quality assessment: 5 dimensions evaluated</li><li>Inductive analysis provides traceability from empirical patterns to analytical priorities</li></ul><strong>Usage Notes:</strong><ul><li>CSV files: UTF-8 encoding, comma-delimited</li><li>Excel files: .xlsx format</li><li>Text files: UTF-8 encoding</li><li>PDF files in articulosPDF/ are copyrighted by respective publishers</li></ul><strong>Recommended Citation:</strong> See CITATION.cff file<br><strong>For questions:</strong> See README.md for contact information",
+  "method": "Systematic review following PRISMA 2020 guidelines. Multi-database search (Scopus, IEEE Xplore, EBSCOhost, ScienceDirect) covering January 2000 - November 2025. Four-phase screening process. Convergent engineering-evidence synthesis methodology. Inductive cross-study thematic analysis for objective formulation."
+}

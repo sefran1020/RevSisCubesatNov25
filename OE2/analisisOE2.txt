@@ -1,0 +1,76 @@
+
+## **OBJETIVO ESPECÍFICO 2**
+### Evaluar la alineación entre los instrumentos de prueba experimental y las recomendaciones de validación
+
+**Base empírica:** n ≈ 50 estudios | **Robustez:** Alta | **Relación:** Complementarity
+
+---
+
+### **Grupo A: Anechoic Chamber Measurements + Validation Recommendations (n≈20)**
+
+1. **Puerto-Leguizamón, G. A.-2016**: Anechoic chamber → Further testing validation recommendations
+2. **Matekovits, L.-2021**: Anechoic chamber far-field → Performance validation recommendations
+3. **Ali F. Almutairi-2021**: Anechoic chamber → Experimental validation recommendations
+4. **Khalid Alrushud-2023**: Anechoic chamber → Real-world testing recommendations
+5. **Koushik Guha-2025**: Anechoic chamber → Validation in different configurations
+6. **Ananjan Basu-2023**: Anechoic chamber → Environmental testing recommendations
+7. **DiCarlofelice, A.-2022**: Anechoic chamber → Fabrication validation recommendations
+8. **El Gholb, Y.-2019**: Anechoic chamber → Measurement validation recommendations
+9. **S.T.-V.-2021**: Anechoic chamber → Testing in operational conditions
+10. **Darwish, S.M.-2024**: Anechoic chamber → Vibration/shock testing recommendations
+11. **J. Francesc Munoz-Martin-2023**: Anechoic chamber + TVAC → Space environment validation
+12. **François Torres-2017**: Anechoic chamber → UHF validation recommendations
+13. **Danai Torrungrueng-2025**: Anechoic chamber → Additional testing recommendations
+14. **Raynell A. Inojosa-2023**: Anechoic chamber → Real-world validation
+15. **M. T. Islam-2015**: Anechoic chamber + KYUTECH Lab → CubeSat integration validation
+16. **Jiménez, D.A.-2023**: Anechoic chamber → 5G application validation
+17. **Johnson, A.-2020**: Anechoic chamber → Reconfiguration testing recommendations
+18. **Rzymowski, M.-2021**: Anechoic chamber → Array validation recommendations
+19. **Lei Wang-2024**: Anechoic chamber → 3D-printing validation
+20. **R.R.-2020**: Anechoic chamber → Multi-angle validation testing
+
+---
+
+### **Grupo B: Vector Network Analyzer (VNA) + Impedance Validation (n≈15)**
+
+21. **K. El Khadiri-2025**: VNA (S-parameters) → Design validation recommendations
+22. **Abd-Elmonieum, S. I.-2023**: VNA → Impedance matching validation
+23. **Beibit A. Karibayev-2022**: VNA → Dual-band validation testing
+24. **Fawzy Ibrahim-2018**: VNA (ROHDE&SCHARZ) → Manufacturing tolerance validation
+25. **Gustavo A. Puerto-Leguizamón-2017**: VNA → Reconfigurable validation testing
+26. **Nguyen, V.C.-2021**: VNA → S-band validation recommendations
+27. **Ta, L.P.-2025**: VNA → X-band validation testing
+28. **Monai Krairiksh-2024**: VNA → Tri-band validation recommendations
+29. **Kai Xue-2016**: VNA → GPS/S-band validation
+30. **Humberto Lobato-Morales-2016**: VNA → CP validation recommendations
+31. **Zhu, L.-2025**: VNA + Satimo Starlab → Array validation testing
+32. **M.H.K.-2023**: Keysight PNA-L VNA → Shared aperture validation
+33. **S.T.-V.-2021**: VNA → Return loss validation recommendations
+34. **Darwish, S.M.-2024**: VNA → Multi-band validation testing
+35. **Not mentioned-2025**: VNA → Bandwidth validation recommendations
+
+---
+
+### **Grupo C: Specialized Measurement Systems + Validation (n≈8)**
+
+36. **Ali F. Almutairi-2021**: Satimo Starlab → Radiation pattern validation
+37. **M. T. Islam-2015**: Satimo Starlab + TVAC → Space mission validation
+38. **Zhu, L.-2025**: Satimo Starlab → Near-field validation testing
+39. **DiCarlofelice, A.-2022**: Specialized setup → Multi-layer validation
+40. **Nascetti, A.-2014**: Measurement system → Earth-observing validation
+41. **Pittella, E.-2018**: Testing system → Reconfigurable validation
+42. **Gilda Priscila-2022**: Testing instruments → Thermal validation recommendations
+43. **Saeidi, T.-2025**: Measurement system → Beamsteering validation testing
+
+---
+
+### **Grupo D: Combined Testing Approaches + Comprehensive Validation (n≈7)**
+
+44. **SALEHIN KIBRIA-2018**: Anechoic + VNA → BIRDS-1 integration validation
+45. **Vinsensius Sigit Widhi Prabowo-2020**: Anechoic + VNA → ADS-B validation testing
+46. **Vasilii Semkin-2018**: Anechoic chamber → Arctic mission validation
+47. **Nicola Curreli-2021**: Multiphysics testing → LEO environmental validation
+48. **Panagiotis Ioannis Theoharis-2021**: Measurement system → LHCP validation
+49. **N. Thunyakaset-2021**: Testing setup → Tri-band validation
+50. **Faisel Tubbal-2015**: Anechoic + measurements → GPS validation testing
+
