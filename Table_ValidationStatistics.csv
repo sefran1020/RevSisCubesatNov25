@@ -1,0 +1,5 @@
+Level,Studies,Percentage,Example_Methods
+Level 4: Combined Multi-Domain,17,30.9%,"Starlab + VNA + Anechoic, TVAC + VNA"
+Level 3: Specialized,1,1.8%,"Starlab only, TVAC only, Radiation test only"
+Level 2: VNA-Based,13,23.6%,"Vector Network Analyzer, S-parameters"
+Level 1: Anechoic Only,24,43.6%,"Anechoic chamber, Far-field patterns"

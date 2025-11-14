@@ -1,0 +1,15 @@
+Figure 3. Validation Comprehensiveness Pyramid for CubeSat Antenna Experimental Testing.
+
+The pyramid visualizes the hierarchical distribution of experimental validation methodologies across 55 studies with empirical testing (2014-2025). Four validation levels demonstrate progressive resource investment and characterization completeness:
+
+Level 1 (Anechoic Far-Field Only, n=24, 43.6%): Basic radiation pattern and gain measurements in anechoic chambers, providing limited mission-relevant characterization.
+
+Level 2 (VNA-Based Frequency Domain, n=13, 23.6%): S-parameter and impedance matching validation using Vector Network Analyzers, complementing far-field data but lacking environmental verification.
+
+Level 3 (Specialized Single-Domain, n=1, 1.8%): Advanced testing platforms (Satimo Starlab near-field systems, TVAC thermal-vacuum chambers, or radiation hardness testing) without multi-domain integration.
+
+Level 4 (Combined Multi-Domain, n=17, 30.9%): Mission-ready verification combining multiple validation domains (e.g., Starlab + TVAC + Anechoic), enabling comprehensive performance assessment under operational conditions.
+
+Critical finding: 67.2% of experimental studies employ single-domain validation (Levels 1-2) inadequate for mission reliability assessment, revealing systematic resource-validation asymmetry discussed in Section 4.1. Only 30.9% achieve multi-domain characterization necessary for orbital deployment confidence.
+
+TRAZABILIDAD: Clasificación basada en campos 'gen.detailed_methodology.data_collection_instruments', 'esp.domain_methodology.measurement_conditions', y 'gen.detailed_methodology.study_type' de baseDatos.csv. Cada estudio asignado a un único nivel según la validación más comprehensiva empleada.
