@@ -1,0 +1,9 @@
+Figure 2. Temporal Evolution and Specialization of Electromagnetic Simulation Platforms in CubeSat Antenna Research.
+
+(a) Temporal trajectory of dominant simulation platforms (2014-2025) showing CST emergence as market leader with 34% share in recent period (2022-2025), compared to balanced distribution in consolidation phase (2018-2021) where HFSS, CST, and FEKO achieved parity at 30.3% each. Shaded regions delineate methodological maturation phases: early consolidation (2014-2017) established circular polarization protocols, expansion (2018-2021) normalized dual-band optimization, and advanced integration (2022-2025) introduced metasurface and multiphysics validation.
+
+(b) Period-stratified publication distribution quantifying 354% growth from early consolidation (n=11) to advanced integration (n=50), with FEKO dominance (36.4%) in early phase transitioning to CST leadership (34%) in contemporary practice.
+
+(c) Market share evolution demonstrating oligopolistic consolidation where top-3 platforms (CST, FEKO, HFSS) maintain 86% combined coverage across all periods, with progressive CST specialization in miniaturization and thermo-mechanical verification complementing HFSS bandwidth optimization strengths and FEKO array radiation expertise.
+
+Data derived from systematic analysis of 94 platform instances across 90 peer-reviewed studies (2014-2025). Platform identification based on esp.domain_methodology.simulation_software field extraction from systematic review database.
