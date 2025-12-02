@@ -1,0 +1,817 @@
+{
+  "Grupo A": {
+    "descripcion": "Electromagnetic Simulation Software + Design Optimization Recommendations",
+    "estudios": [
+      {
+        "autor": "Puerto-Leguizamón",
+        "año": "2016",
+        "info": {
+          "autores": "Puerto-Leguizamón, G. A.; Méndez, D.R.; Suárez-Fajardo, C. A.; Puerto-Leguizamón, G.A.; Suárez-Fajardo, C.A.; Pineda, A.; Pineda-Rodríguez, A.; Méndez-Marín, D. R.",
+          "año": "2016",
+          "titulo": "Diseño de una antena de parche con geometría en anillo circular cortocircuitado para satélites CubeSat 1U",
+          "software": "Altair FEKO (p. 162)",
+          "optimizacion": "Further optimization of the antenna design for improved performance (p. 163); Further testing and validation of the antenna design in real-world CubeSat applications (p. 157)",
+          "ganancia": "6.1 dBi (p. 157)",
+          "tipo_antena": "Shorted annular ring (SAR) antenna with circular polarization and reconfigurable sense of rotation (p. 157)",
+          "banda": "1.9 GHz to 2.66 GHz (p. 157)",
+          "material": "Not mentioned",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Matekovits",
+        "año": "2021",
+        "info": {
+          "autores": "Matekovits, L.; Theoharis, P.I.; Dassano, G.; Liu, S.; Chin, K.-W.; Ali Khan, M.U.; Not mentioned; Tubbal, F.; Butters, B.; Abulgasem, S.; Raad, R.",
+          "año": "2021",
+          "titulo": "A Metal-Only Wideband Folded Patch Antenna for CubeSat Applications",
+          "software": "HFSS (p. 3)",
+          "optimizacion": "Not mentioned; To increase robustness for CubeSat applications, the air substrate could be filled with foam material without sacrificing performance (p. 11); Vibration and shock testing must be performed to assess the antenna's suitability and durability during CubeSat launch (p. 11); Use the proposed design for CubeSat communications to improve bandwidth and gain (p. 2)",
+          "ganancia": "8.5 dBi at 2.45 GHz (p. 10)",
+          "tipo_antena": "Metal-only wideband folded patch antenna (p. 9)",
+          "banda": "S-band (2.45 GHz) (p. 10)",
+          "material": "Air (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Almutairi",
+        "año": "2021",
+        "info": {
+          "autores": "Ali F. Almutairi; A. F. Alomainy; M. T. Islam; Mengu Cho; T. Alam; M. Cho; Mohammad Tariqul Islam; M. Samsuzzaman; Md Samsuzzaman; Touhidul Alam",
+          "año": "2021",
+          "titulo": "Metamaterial array based meander line planar antenna for cube satellite communication",
+          "software": "CST Microwave Studio Suite 2019 (p. 2)",
+          "optimizacion": "Integrate the proposed antenna in CubeSat missions for command, tracking, and data downlink applications (p. 10); Further optimization of the antenna design for improved performance and reliability (p. 1)",
+          "ganancia": "2.5 dB (p. 1)",
+          "tipo_antena": "Metamaterial-inspired meander line planar patch antenna (p. 1)",
+          "banda": "443.5–455 MHz (p. 10)",
+          "material": "Rogers Duroid 5880 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Alrushud",
+        "año": "2023",
+        "info": {
+          "autores": "Khalid Alrushud; Symon K. Podilchak; Yuepei Li; Khalid M. Alrushud; Bandar Alshammari",
+          "año": "2023",
+          "titulo": "Compact folded-shorted patch array offering dual-band operation and dual-circularly polarized radiation for picosatellites and other small satellites",
+          "software": "CST (p. 3)",
+          "optimizacion": "Integrate the proposed antenna design into small satellite platforms for improved communication and positioning capabilities (p. 1); Use the proposed antenna design for CubeSats and picosatellites requiring dual-band and dual-polarized operation (p. 5); Further optimize the design for specific mission requirements (p. 1)",
+          "ganancia": "0 dBic at 1.1 GHz (lower band), 2 dBic at 2.3 GHz (upper band) (p. 4)",
+          "tipo_antena": "2×2 folded shorted patch (FSP) array (p. 1)",
+          "banda": "1.1 GHz (L-band) and 2.4 GHz (S-band) (p. 1)",
+          "material": "Not mentioned",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "MENDONÇA",
+        "año": "2024",
+        "info": {
+          "autores": "MENDONÇA, MARCELE O. K.; GONZÁLEZ RIOS, JORGE LUIS; López, B.; Not mentioned; Lagunas, E.; VÁSQUEZ-PERALVO, JUAN ANDRÉS; Mendonça, M.O.K.; Querol, J.; Vásquez-Peralvo, A.; Merlano Duncan, J.C.; MERLANO DUNCAN, JUAN CARLOS; GARCÉS-SOCORRÁS, LUIS MANUEL; García, C.; Chatzinotas, S.; CHATZINOTAS, SYMEON; González Rios, J.L.; ORTÍZ, FLOR; Ortiz, F.; QUEROL, JORGE; LAGUNAS, EVA; Garcés-Socorrás, L.M.; Vásquez-Peralvo, J.A.",
+          "año": "2024",
+          "titulo": "Multibeam Beamforming for Direct Radiating Arrays in Satellite Communications Using Genetic Algorithm",
+          "software": "CST Microwave Studio (p. 4)",
+          "optimizacion": "Implement the proposed algorithm in CubeSat designs (p. 1); Consider array thinning to enhance efficiency and reduce power consumption (p. 9); Not mentioned; Adapt the algorithm to different platforms and frequency bands (p. 13); Consider the number of elements and type of radiating elements for specific applications (p. 13); Implement the algorithm in CubeSat designs to optimize multibeam performance (p. 9)",
+          "ganancia": "Not mentioned",
+          "tipo_antena": "8 × 8 DRA patch antenna with circular polarization (p. 1)",
+          "banda": "19 GHz (p. 1)",
+          "material": "RO4003 (p. 4)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Bab",
+        "año": "2023",
+        "info": {
+          "autores": "Amine Bab; Djamel Eddine Baba Hamed; Abdelhak Benikhlef; Boualem Nasri; Not mentioned; Saïah Bekkar-Djelloul-Saïah",
+          "año": "2023",
+          "titulo": "Comparative Approach in the Gain Study for Two Popular Shapes of S-Band Microstrip Patch Antenna for CubeSats",
+          "software": "ANSYS HFSS (p. 2)",
+          "optimizacion": "Not mentioned; Use rectangular microstrip patch antenna arrays for CubeSats to achieve higher gain (p. 5); Consider the 2×2 configuration for maximum performance (p. 5)",
+          "ganancia": "13.18 dB for 2×2 rectangular array, 11.78 dB for 2×2 triangular array (p. 3)",
+          "tipo_antena": "S-band microstrip patch antenna (p. 2)",
+          "banda": "S-band (2.4 GHz) (p. 2)",
+          "material": "FR-4 (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Chaabane",
+        "año": "2018",
+        "info": {
+          "autores": "Haykel Chaabane; Wael Jaballah; Nizar Rokbani; Not mentioned",
+          "año": "2018",
+          "titulo": "FPA Based Design of 2x1 Microstrip Antenna Array for CubeSat Communications",
+          "software": "FEKO suite 7.0 (p. 4)",
+          "optimizacion": "Improve the T-junction design to enhance isolation and matching (p. 6); Achieve circular polarization using known design techniques (p. 6); Use the optimized design parameters for the circular patch antenna in CubeSat communication systems (p. 4)",
+          "ganancia": "7.33 dB (p. 4)",
+          "tipo_antena": "2x1 microstrip antenna array (p. 5)",
+          "banda": "S-band (2-4 GHz) (p. 1)",
+          "material": "Duroid RT 5870 (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Chekkar",
+        "año": "2022",
+        "info": {
+          "autores": "Walid Chekkar; Leonardo Lizzi; Fabien Ferrero",
+          "año": "2022",
+          "titulo": "Dual-mode Antenna Using Permittivity Gradient for S-band CubeSat Communications",
+          "software": "Not mentioned",
+          "optimizacion": "Manufacture and measure the proposed antenna design (p. 2)",
+          "ganancia": "4.97 dBi at 2.02 GHz, 2.64 dBi at 2.17 GHz (p. 2)",
+          "tipo_antena": "Probe-fed square microstrip patch antenna (p. 1)",
+          "banda": "S-band (2.01-2.03 GHz and 2.15-2.17 GHz) (p. 2)",
+          "material": "ABS (p. 1)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Guha",
+        "año": "2025",
+        "info": {
+          "autores": "Koushik Guha; Irene Dal Chiele; Massimo Donelli; Mohammedhusen Manekiya; Not mentioned; Girolamo Tagliapietra; Jacopo Iannacci",
+          "año": "2025",
+          "titulo": "Design of high performances electronically reconfigurable antenna arrays by means of parasitic structures and RF-MEMS switches",
+          "software": "Advanced Design System (ADS) by Keysight Technologies (p. 4)",
+          "optimizacion": "Not mentioned; Integrate RF-MEMS technology in future antenna designs for improved reliability and precision (p. 2)",
+          "ganancia": "3.5 dBi at 1 GHz, 3.1 dBi at 4 GHz (p. 7)",
+          "tipo_antena": "Dual-band patch antenna with Minkowski fractal geometry (p. 1)",
+          "banda": "1 GHz and 4 GHz (p. 1)",
+          "material": "Rogers RO4350B (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Basu",
+        "año": "2023",
+        "info": {
+          "autores": "Ananjan Basu; M.P.A.; Ratul De; A.B.; Mahesh P. Abegaonkar; Not mentioned; R.D.",
+          "año": "2023",
+          "titulo": "A broadband circularly polarized Fabry Perot antenna with spatially separated superstrate area excitation for CubeSat applications",
+          "software": "CST Microwave Studio (p. 8)",
+          "optimizacion": "Integrate the antenna with 1U CubeSat chassis using the proposed deployment mechanism (p. 1); Further testing in space environments (p. 12); Utilize the antenna for high-data-rate communication in CubeSat applications (p. 1); Use the proposed antenna for high data-rate downlinks in CubeSat applications (p. 9)",
+          "ganancia": "15.73 dBic standalone, 16.83 dBic when installed on 1U CubeSat (p. 8)",
+          "tipo_antena": "High-gain, broadband, circularly polarized Fabry–Perot cavity (FPC) antenna (p. 1)",
+          "banda": "X-band (7.99–9.02 GHz) (p. 1)",
+          "material": "Rogers RT Duroid 5880 (p. 8)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "DiCarlofelice",
+        "año": "2022",
+        "info": {
+          "autores": "DiCarlofelice, A.; E.D.; A.D.; P.T.; DiGiampaolo, E.; Tognolatti, P.",
+          "año": "2022",
+          "titulo": "A Numerical Procedure to Design a UWB Aperture-Coupled Microstrip Antenna Suitable for Space Applications",
+          "software": "Altair FEKO (p. 11)",
+          "optimizacion": "Use the developed design procedure for creating ACMA for CubeSat applications (p. 1); Consider the use of simple multilayer structures without interlayer interconnections or inclusions to minimize costs (p. 1); Use the design procedure for cost-effective mass production of antennae for CubeSats (p. 11)",
+          "ganancia": "7 to 10.3 dBi (8.1 to 10.9 dBi) (p. 9)",
+          "tipo_antena": "Dual-polarized ultra-wideband aperture-coupled microstrip antenna (ACMA) (p. 1)",
+          "banda": "Ka-band (26.5–40 GHz) (p. 1)",
+          "material": "Rogers RT6002 for dielectric 1, RO4003 for dielectrics 2 and 3 (p. 5)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Diener",
+        "año": "2017",
+        "info": {
+          "autores": "Joseph E. Diener; Robert D. Jones; Atef Z. Elsherbeni",
+          "año": "2017",
+          "titulo": "Isoflux Phased Array Design for Cubesats",
+          "software": "CST Microwave Studio (p. 2)",
+          "optimizacion": "Further optimization considering mutual coupling effects (p. 2)",
+          "ganancia": "11.5dB (p. 2)",
+          "tipo_antena": "Microstrip patch phased array (p. 1)",
+          "banda": "X-band (11.2GHz) (p. 1)",
+          "material": "Rogers 5880 RT-Duroid (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "El Bakkali",
+        "año": "2018",
+        "info": {
+          "autores": "Mohamed El Bakkali; Najiba El Amrani El Idrissi; Faisel Em Tubbal; Gurjot Singh Gaba",
+          "año": "2018",
+          "titulo": "Optimum design of a tri-band MPA with parasitic elements for CubeSat communications using Genetic Algorithm",
+          "software": "ANSYS HFSS 15.0, CST MWS 2017 (p. 3)",
+          "optimizacion": "Utilize GA optimization technique to further improve the performance of the developed antenna and its array of different shapes and configurations (p. 4)",
+          "ganancia": "7.80 dB at 8.2 GHz (p. 3)",
+          "tipo_antena": "Tri-band microstrip patch antenna with parasitic elements (RMPA-PE) (p. 1)",
+          "banda": "X-band (8.23 GHz), Ku-band (13.96 GHz, 15.14 GHz) (p. 4)",
+          "material": "RT Duroid 5880 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "El Gholb",
+        "año": "2019",
+        "info": {
+          "autores": "El Gholb, Y.; El Idrissi, N.A.; Gaba, G. S.; El Bakkali, M.; Mounssef, A.; Kansal, L.; Tubbal, F.; El Amrani El Idrissi, N.; Tabakh, I.",
+          "año": "2019",
+          "titulo": "Analysis and Optimization of a Very Compact MPA with Parasitic Elements for Inter-swarm of CubeSats Communications",
+          "software": "ANSYS HFSS (p. 5)",
+          "optimizacion": "Use the optimized RMPA-PE design for CubeSat inter-swarm communications (p. 10); Consider the use of parasitic elements to enhance antenna performance in other CubeSat applications (p. 10); Further testing and validation in real CubeSat environments (p. 15)",
+          "ganancia": "7.2 dBi (p. 1)",
+          "tipo_antena": "Rectangular Microstrip Patch Antenna (RMPA) with parasitic elements (p. 3)",
+          "banda": "Ka band (28.7 GHz) (p. 3)",
+          "material": "FR4 (p. 5)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Tubbal",
+        "año": "2022",
+        "info": {
+          "autores": "Faisel Tubbal; Ali Lalbakhsh; Suhila Abulgasem; Raad Raad; Panagiotis Ioannis Theoharis; Najiba El Amrani El Idrissi; Not mentioned; Mohamed El Hammoumi",
+          "año": "2022",
+          "titulo": "A wideband MPA for 5G CubeSat’s applications (p. 52)",
+          "software": "HFSS (p. 3)",
+          "optimizacion": "Not mentioned; Use the proposed antenna design for 5G CubeSat applications (p. 5)",
+          "ganancia": "6.9 dB at 28 GHz (p. 4)",
+          "tipo_antena": "Microstrip patch antenna with parasitic element and slots (p. 2)",
+          "banda": "Ka-band (25.5–31.2 GHz) (p. 4)",
+          "material": "FR4 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Darwish",
+        "año": "2024",
+        "info": {
+          "autores": "Darwish, S.M.; Elkady, A.; Abdullah, H.H.; Smith, B.; Elkady, H.M.; Johnson, C.",
+          "año": "2024",
+          "titulo": "Multiband circularly polarised CubeSat antenna operating in S, C, X, Ku, K, and Ka bands",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Conduct further testing and validation in real-world CubeSat missions (p. 1); Not mentioned; Integrate the proposed antenna design into CubeSat telecommunication subsystems (p. 1); Further optimize the design for specific CubeSat missions (p. 11); Test the antenna in space-like environments (p. 11)",
+          "ganancia": "7.09 dBi at 2 GHz, 7.38 dBi at 2.3 GHz, 7.89 dBi at 7.5 GHz, 8.1 dBi at 10 GHz, 8.41 dBi at 20 GHz, 9.1 dBi at 25 GHz, 9.81 dBi at 29 GHz (p. 13)",
+          "tipo_antena": "Hybrid internal spiral/patch antenna (p. 5)",
+          "banda": "L-band (1.55–1.94 GHz), S-band (2, 2.1, 2.3 GHz), C-band (4–8 GHz), X-band (8–12 GHz), Ku-band (12–18 GHz), K-band (18–26 GHz), Ka-band (26–29 GHz) (p. 8)",
+          "material": "Rogers RT5870 (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "El Hammoumi",
+        "año": "2021",
+        "info": {
+          "autores": "Mohamed El Hammoumi; Panagiotis Ioannis Theoharis; Najiba El Amrani El Idrissi; Faisel Tubbal; Raad Raad",
+          "año": "2021",
+          "titulo": "A Wideband Compact Patch Antenna for Ka-band and CubeSat Applications",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Use the proposed antenna design for 5G and CubeSat applications (p. 5)",
+          "ganancia": "7 dBi at 28.3 GHz (p. 3)",
+          "tipo_antena": "Wideband microstrip patch antenna (p. 1)",
+          "banda": "Ka-band (23-30.5 GHz) (p. 4)",
+          "material": "FR4 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Torrungrueng",
+        "año": "2025",
+        "info": {
+          "autores": "Danai Torrungrueng; W. Phakphisut; Pisit Janpangngern; S. Dentri; C. Phongcharoenpanich; P. Janpangngern; Chuwong Phongcharoenpanich; Sitthichai Dentri; Watid Phakphisut; T. Hemachai; Thanaphon Hemachai; D. Torrungrueng",
+          "año": "2025",
+          "titulo": "Corner-truncated patch antenna with parasitic elements and circular feed slot for S-band CubeSat applications",
+          "software": "CST Microwave Studio Suite (p. 2)",
+          "optimizacion": "Evaluate the antenna's performance in real mission conditions (p. 18); Integrate the proposed antenna design into CubeSat communication systems (p. 18); Implement the proposed antenna design in CubeSat communication systems (p. 8); Use the proposed antenna design for CubeSat communication systems (p. 15); Not mentioned; Optimize the design parameters for specific mission requirements (p. 8); Implement the antenna with low-profile and body-mounted configurations to minimize deployment risk (p. 15); Integrate the proposed antenna design into CubeSat communication systems for reliable and efficient communication (p. 1)",
+          "ganancia": "7.50 dBic at 2.025 GHz (p. 1)",
+          "tipo_antena": "Corner-truncated patch antenna with parasitic elements and circular feed slot (p. 1)",
+          "banda": "S-band (2.025–2.290 GHz) (p. 17)",
+          "material": "RT/duroid® 5880 (p. 12)",
+          "conclusiones": ""
+        }
+      }
+    ]
+  },
+  "Grupo B": {
+    "descripcion": "Full-wave EM Simulation + Optimization",
+    "estudios": [
+      {
+        "autor": "Lee",
+        "año": "2018",
+        "info": {
+          "autores": "Sunghee Lee; Seongmin Pyo; Jae-Hyun Kim",
+          "año": "2018",
+          "titulo": "Dual-band bidirectional circularly polarized microstrip antenna for CubeSat system",
+          "software": "Not mentioned",
+          "optimizacion": "Not mentioned",
+          "ganancia": "0 dBic for forward radiation at 2.228 GHz (p. 4)",
+          "tipo_antena": "Dual-band bidirectional circularly polarized microstrip antenna (p. 1)",
+          "banda": "1.575 GHz and 2.230 GHz (p. 1)",
+          "material": "FR4 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Lehmensiek",
+        "año": "2017",
+        "info": {
+          "autores": "Robert Lehmensiek",
+          "año": "2017",
+          "titulo": "Design of a wideband circularly polarized 2 x 2 array with shorted annular patches at X-band on a CubeSat",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Further testing and validation of the design through measured results (p. 2)",
+          "ganancia": "Not mentioned",
+          "tipo_antena": "2 x 2 microstrip array with shorted annular patches (p. 1)",
+          "banda": "X-band (p. 1)",
+          "material": "Not mentioned",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Rzymowski",
+        "año": "2021",
+        "info": {
+          "autores": "Rzymowski, M.; Nyka, K.; Kulas, L.; Leszkowska, L.; Not mentioned",
+          "año": "2021",
+          "titulo": "High-Gain Compact Circularly Polarized X-Band Superstrate Antenna for CubeSat Applications",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Not mentioned; Use the proposed antenna design in CubeSat missions for improved communication performance (p. 4)",
+          "ganancia": "14 dBic (p. 3)",
+          "tipo_antena": "High-gain circularly polarized X-band superstrate antenna (p. 1)",
+          "banda": "X-band (8–9.8 GHz) (p. 1)",
+          "material": "RO3003 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Che",
+        "año": "2021",
+        "info": {
+          "autores": "Wenquan Che; Yang Yang; Quan Xue; Siyu Li; Not mentioned; Shaowei Liao",
+          "año": "2021",
+          "titulo": "Low-Profile Circularly-Polarized Isoflux Beam Antenna Array Based on Annular Aperture Elements for CubeSat Earth Coverage Applications",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Not mentioned; Use the proposed design for CubeSat earth coverage applications (p. 10); Further optimization of the feeding network to improve performance (p. 7)",
+          "ganancia": "4.7 dBic at θ = ±35°, 2.2 dBic at θ = 0° (p. 6)",
+          "tipo_antena": "CP isoflux beam antenna array based on sequential rotation-fed annular aperture elements (p. 1)",
+          "banda": "C band (5 GHz) (p. 1)",
+          "material": "Rogers RT/duroid 5870 (p. 6)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Wang",
+        "año": "2024",
+        "info": {
+          "autores": "Lei Wang; Jiayu Rao; Symon K. Podilchak; Yuepei Li; Yuan Ding",
+          "año": "2024",
+          "titulo": "A 3-D metal printed folded-shorted patch array with an integrated feeding circuit offering dual-band circularly polarised radiation for cubesat applications",
+          "software": "Altair FEKO (p. 4)",
+          "optimizacion": "Use 3-D metal printing technology for consistent fabrication of FSP elements (p. 2); Further optimization of the feeding circuit for improved performance (p. 5); Optimize radiating slot dimensions for dual-band operation (p. 2); Exploration of different array configurations for versatility (p. 5)",
+          "ganancia": "2.32 dBic at 1.2 GHz and 1.84 dBic at 2.45 GHz (p. 5)",
+          "tipo_antena": "Miniaturised CP antenna using 3-D metal printing (p. 4)",
+          "banda": "L-band (1.18-1.2 GHz) and S-band (2.45 GHz) (p. 3)",
+          "material": "RT4003C (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "R.R.",
+        "año": "2020",
+        "info": {
+          "autores": "R.R.; Faisel Em T ubbal; F.E.T.; Raad Raad; Panagiotis Ioannis Theoharis; Not mentioned; S.L.; Sining Liu; P.I.T.",
+          "año": "2020",
+          "titulo": "A New Patch Antenna for CubeSat: Dual feed, L/S dual-band stacked, and circularly polarized",
+          "software": "Altair FEKO (p. 5)",
+          "optimizacion": "Not mentioned; CubeSat designers can choose from three popular frequencies through a simple angle configuration (p. 1); Use the proposed antenna design for CubeSat missions to achieve adaptive frequency operation and high gain (p. 9); Further testing in different environments to validate performance (p. 9)",
+          "ganancia": "8.167 dBi at 2.4 GHz, 5.278 dBi at 1.3 GHz, 6.120 dBi at 3 GHz (p. 1)",
+          "tipo_antena": "Dual-feed, dual-band, circularly polarized patch antenna (p. 9)",
+          "banda": "L-band (1.3–1.4 GHz) and S-band (2.38–2.54 GHz and 2.82–3.08 GHz) (p. 4)",
+          "material": "FR4 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Liu",
+        "año": "2019",
+        "info": {
+          "autores": "Liu, W.-C.; Tang, T.-Y.",
+          "año": "2019",
+          "titulo": "High-gain patch antenna for cubesat-based automatic dependent surveillance-broadcast application",
+          "software": "HFSS (p. 2)",
+          "optimizacion": "Use the proposed antenna design for cubesat-based ADS-B applications (p. 3)",
+          "ganancia": "6.98 dBi at 1.090 GHz (p. 3)",
+          "tipo_antena": "Stacked-patch antenna with slots and reflectors (p. 1)",
+          "banda": "1.090 GHz (p. 1)",
+          "material": "Rogers RT4003 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "El Khadiri",
+        "año": "2025",
+        "info": {
+          "autores": "K. El Khadiri; R.A. Laamara; B. BENHMIMOU; F. OMARI; M. El Bakkali; B. Benhmimou; N. GUPTA; F. Omari; N. Gupta; A. Kogut; K. El Hadiri; I. Kuzmichev",
+          "año": "2025",
+          "titulo": "Design, Fabrication and Measurements of an X-Band Cross-Patch Antenna with Metasurface for Advanced LEO CubeSat Missions",
+          "software": "Altair FEKO (p. 6)",
+          "optimizacion": "Conduct further testing to optimize the design for different CubeSat sizes and missions (p. 8); Integrate the proposed antenna design into 1U CubeSat missions to enhance communication and mission longevity (p. 1); Integrate the developed antenna design into CubeSat missions to enhance communication capabilities (p. 10); Integrate the metasurface antenna design into CubeSat missions to improve communication efficiency (p. 8); Optimize the metasurface unit cell for further performance improvements (p. 10)",
+          "ganancia": "10.0 dBi (p. 10)",
+          "tipo_antena": "Cross-patch antenna with metasurface (p. 10)",
+          "banda": "X-band (8–9.8 GHz) (p. 10)",
+          "material": "Rogers RT 5880 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Abd-Elmonieum",
+        "año": "2023",
+        "info": {
+          "autores": "Abd-Elmonieum, S. I.; Elkamchouchi, H. M.; Madany, Y. M.",
+          "año": "2023",
+          "titulo": "High-Gain Pixel Patch Antenna Array for Miniature Wireless Communications and IoT Applications",
+          "software": "Altair FEKO (p. 11)",
+          "optimizacion": "Use the proposed pixel antenna design in small space devices and miniaturized systems (p. 14); Further testing and optimization of the proposed design for different frequency bands (p. 6)",
+          "ganancia": "Up to 32.7 dB (p. 13)",
+          "tipo_antena": "Miniaturized pixel antenna using DS-Post (p. 14)",
+          "banda": "5.32 GHz (p. 10)",
+          "material": "Rogers Duroid 6010 (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Karibayev",
+        "año": "2022",
+        "info": {
+          "autores": "Beibit A. Karibayev; Khaniyev Bakyt; Amirkhan A. Temirbayev; Zeynulla Zh. Zhanabaev; Timur A. Namazbayev; Ainur K. Khaniyeva; Bakyt A. Khaniyev; Ainur Khaniyeva; Nursultan Meirambekuly",
+          "año": "2022",
+          "titulo": "Dual-band optical imaging system-integrated patch antenna based on anisotropic fractal for earth-observation CubeSats",
+          "software": "CST Microwave Studio 2018 (p. 2)",
+          "optimizacion": "Optimize the substrate height to improve realized gain and efficiency (p. 5); Use the proposed antenna design for 1U-6U Earth-observation CubeSats (p. 2); Integrate the proposed antenna design in future CubeSat missions (p. 8)",
+          "ganancia": "4 dBi at the first resonant frequency, 2.15 dBi at the second resonant frequency (p. 8)",
+          "tipo_antena": "Dual-band patch antenna based on anisotropic fractal (p. 1)",
+          "banda": "2.100–2.330 GHz and 1.980–2.055 GHz (p. 8)",
+          "material": "Double-sided Glass Epoxy Sheet FR-4 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Nascetti",
+        "año": "2014",
+        "info": {
+          "autores": "Nascetti, A.; Pittella, E.; Teofilitto, P.; Pisa, S.",
+          "año": "2014",
+          "titulo": "High-gain S-band Patch Antenna System for Earth-observation Cubesat Satellites",
+          "software": "Microwave Studio by CST (p. 2)",
+          "optimizacion": "Use the designed antenna system for earth-observing cubesats (p. 4); Consider the flexibility of the design for different mission requirements (p. 4)",
+          "ganancia": "7.3 dBi (p. 3)",
+          "tipo_antena": "High-gain circularly polarized S-band patch antenna system (p. 1)",
+          "banda": "S-band (2.45 GHz) (p. 1)",
+          "material": "Rogers RT5870 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Priscila",
+        "año": "2022",
+        "info": {
+          "autores": "Gilda Priscila; Putri Indra Wahyuningsih; Levy Olivia Nur; Amanda Nurul Islam Ali; Edwar",
+          "año": "2022",
+          "titulo": "Microstrip Antenna Gain Enhancement using Multilayer Substrate and Superstrate Structure for Space-Based ADS-B Surveillance",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Integration of the antenna into CubeSat systems for real-world testing (p. 6); Further optimization of the antenna design for better performance (p. 6); Further optimization of the antenna design for better performance (p. 7)",
+          "ganancia": "4.505 dBi (fabricated) (p. 6)",
+          "tipo_antena": "Microstrip patch antenna with superstrate and additional substrate layer (p. 7)",
+          "banda": "1090 MHz (p. 2)",
+          "material": "RT Duroid 3006 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Rajab",
+        "año": "2018",
+        "info": {
+          "autores": "Mahmoud Rajab; Fatma M. El-Hefnawi; Salwa H. Elramly; Marwa H.Bannis",
+          "año": "2018",
+          "titulo": "UWB with Gain Enhancement Archimedean Spiral Microstrip Antennas for On-board Satellite Communications",
+          "software": "CST Microwave Studio (p. 1)",
+          "optimizacion": "Use stacked substrate techniques to enhance the performance of spiral microstrip antennas in satellite communications (p. 2)",
+          "ganancia": "8 dB increase for MASMA, 10 dB increase for DASMA, 12 dB increase for 2x2 array DASMA (p. 2)",
+          "tipo_antena": "Archimedean spiral microstrip antenna (ASMA) (p. 1)",
+          "banda": "6.8 to 24 GHz (MASMA without stacked substrate), 6 to 61 GHz (MASMA with stacked substrate), 7.5 to 24 GHz (DASMA without stacked substrate), 7.5 to 15 GHz (DASMA with stacked substrate), 7.5 to 25 GHz (2x2 array DASMA without stacked substrate), 5.8 to 16 GHz (2x2 array DASMA with stacked substrate) (p. 2)",
+          "material": "FR-4 and RT 5880 (p. 1)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Saeidi",
+        "año": "2025",
+        "info": {
+          "autores": "Saeidi, T.; S.K.; Not mentioned; Karamzadeh, S.; S.S.; Saleh, S.; T.S.",
+          "año": "2025",
+          "titulo": "Miniaturized and Circularly Polarized Dual-Port Metasurface-Based Leaky-Wave MIMO Antenna for CubeSat Communications",
+          "software": "CST Microwave Studio (or HFSS) (p. 18)",
+          "optimizacion": "Integrate the antenna into CubeSat communication systems for enhanced performance (p. 1); Integrate the proposed antenna design into CubeSat communication systems (p. 6); Integrate the antenna with onboard energy-harvesting systems or intelligent beam-forming ICs (p. 21); Conduct practical tests to validate simulation results (p. 1); Not mentioned; Conduct experimental validation to confirm simulation results (p. 11); Explore the potential for incorporating this antenna into next-generation CubeSat missions (p. 21)",
+          "ganancia": "12.9 dBi (p. 18)",
+          "tipo_antena": "Miniaturized circular polarized dual-port MTS-based leaky-wave MIMO antenna (p. 20)",
+          "banda": "3.75–5.25 GHz, 6.4–15.4 GHz, and 22.5–30 GHz (p. 20)",
+          "material": "Rogers RT 5880 (p. 11)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Curreli",
+        "año": "2021",
+        "info": {
+          "autores": "Nicola Curreli; Simone, F.; Lodi, M. B.; Giuseppe Mazzarella; Fanti, A.; Garcia, J.; Pavone, S. C.; Mazzarella, G.; Not mentioned; Alessandro Fanti; Simone, A.; Smith, A.B.; Simone, M.; Santi Concetto Pavone; Lopez, M.C.; Curreli, N.",
+          "año": "2021",
+          "titulo": "Optimized Design and Multiphysics Analysis of a Ka-Band Stacked Antenna for CubeSat Applications",
+          "software": "CST Microwave Studio, Comsol Multiphysics (p. 5)",
+          "optimizacion": "Use the optimized design for future CubeSat missions (p. 1); Use mechanically performing resins or adaptive temperature control strategies to manage thermal and mechanical stresses (p. 12); Conduct further thermal and mechanical testing to validate the simulation results (p. 8); Not mentioned; Implement the optimized antenna design in CubeSat missions (p. 8); Perform similar multiphysics analyses for other CubeSat components (p. 1)",
+          "ganancia": "26 dBi (p. 10)",
+          "tipo_antena": "Ka-band stacked patch antenna (p. 4)",
+          "banda": "Ka-band (26–34.7 GHz for down- and uplink) (p. 1)",
+          "material": "Rogers RT/duroid 5880 (p. 12)",
+          "conclusiones": ""
+        }
+      }
+    ]
+  },
+  "Grupo C": {
+    "descripcion": "Simulation Software Variety + Optimization Strategies",
+    "estudios": [
+      {
+        "autor": "S.T.-V.",
+        "año": "2021",
+        "info": {
+          "autores": "S.T.-V.; Manzoor Elahi; K.-C.H.; Son Trinh-Van; Youngoo Yang; M.E.; Not mentioned; Y.Y.; Keum-Cheol Hwang; K.-Y.L.; Kang-Yoon Lee",
+          "año": "2021",
+          "titulo": "Compact and High Gain 4 × 4 Circularly Polarized Microstrip Patch Antenna Array for Next Generation Small Satellite",
+          "software": "CST Microwave Studio (p. 3)",
+          "optimizacion": "Not mentioned; Further testing and validation in real-world satellite applications (p. 10); Further testing and optimization for different satellite applications (p. 1); Optimization of the feeding network for higher efficiency (p. 10)",
+          "ganancia": "15 to 15.5 dBic (p. 1)",
+          "tipo_antena": "4 × 4 circularly polarized microstrip patch antenna array (p. 1)",
+          "banda": "Ku-band (7.8 to 8.52 GHz) (p. 9)",
+          "material": "Rogers RT6006 (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Munoz-Martin",
+        "año": "2023",
+        "info": {
+          "autores": "J. Francesc Munoz-Martin; Camps, A.; Fernandez, L.; Calveras, A.; Munoz-Marti, J.F.; A. Camps; Ruiz-de-Azu, J.A.; A. Calveras; Not mentioned; J. A. Ruiz-de-Azua; L. Fernandez",
+          "año": "2023",
+          "titulo": "Design and validation of a dual-band circular polarization patch antenna and stripline combiner for the FSSCat mission",
+          "software": "CST Studio Suite (p. 4)",
+          "optimizacion": "Future missions should remanufacture an antenna that complies with all stated requirements (p. 9); Use the designed antenna in future CubeSat missions with similar requirements (p. 1); Further optimize the combiner design to reduce discrepancies between simulations and measurements (p. 7)",
+          "ganancia": "10.1 dB (1413 MHz), 5.48 dB (1575.42 MHz) (p. 9)",
+          "tipo_antena": "Dual-frequency left-hand circular polarization patch antenna array (p. 8)",
+          "banda": "MWR band (1413 MHz) and GPS L1 band (1575.42 MHz) (p. 4)",
+          "material": "Rogers 4003C (p. 4)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Lobato-Morales",
+        "año": "2016",
+        "info": {
+          "autores": "Humberto Lobato-Morales; Andres Calvillo-Tellez; Jayendra Kumar; Cruz Angel Figueroa-Torres; F. A. Talukdar; Jose Luis Medina-Monroy; Banani Basu; Ricardo Arturo Chavez-Perez",
+          "año": "2016",
+          "titulo": "A Microstrip Antenna Based on a Standing-Wave Fractal Geometry for CubeSat Applications",
+          "software": "Not mentioned",
+          "optimizacion": "Use the proposed antenna for CubeSat applications (p. 2213); Use the proposed antenna in WMTS and MICS devices (p. 2214)",
+          "ganancia": "5.7 dBi (p. 2212)",
+          "tipo_antena": "Microstrip standing-wave fractal antenna (p. 2210)",
+          "banda": "335–565 MHz, 1.29–1.42 GHz, and 2.03–2.28 GHz in multiband; 300–645 MHz in single band (p. 2214)",
+          "material": "FR4 epoxy (p. 2214)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Torres",
+        "año": "2017",
+        "info": {
+          "autores": "François Torres; Cyrille Menudier; Eric Arnaud; Marc Thevenot; Not mentioned; Kevin Elis; Jamil Fouany; Thierry Monediere",
+          "año": "2017",
+          "titulo": "New Concept of Telemetry X-Band Circularly Polarized Antenna Payload for CubeSat",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Consider a wider bandwidth patch to enhance performance (p. 5); Not mentioned; Use a more efficient connector to improve the antenna efficiency (p. 5)",
+          "ganancia": "-0.4dBi at θ = 60° (p. 5)",
+          "tipo_antena": "High-gain circularly polarized X-band antenna with parasitic crossed dipoles (p. 2)",
+          "banda": "X-band [8.0 - 8.4 GHz] (p. 2)",
+          "material": "RO4003c (p. 4)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Gunaseelan",
+        "año": "2016",
+        "info": {
+          "autores": "S. Gunaseelan; M. Murugan",
+          "año": "2016",
+          "titulo": "High Gain Patch Antenna for CubeSat",
+          "software": "CST (p. 2)",
+          "optimizacion": "Use the high gain patch antenna array design for CubeSat applications to improve communication reliability and data rate (p. 3)",
+          "ganancia": "9.6 dB (p. 3)",
+          "tipo_antena": "High gain patch antenna array (p. 1)",
+          "banda": "S-band (2 to 4 GHz) (p. 1)",
+          "material": "Rogers RT 5870 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Hossain",
+        "año": "2021",
+        "info": {
+          "autores": "M. Mubasshir Hossain; Saeed I. Latif; M. Qudrat-E-Maula; Edmund Spencer",
+          "año": "2021",
+          "titulo": "A Wideband Circularly Polarized Stacked Antenna with Corner Perturbations for CubeSats",
+          "software": "Ansys HFSS 2020 (p. 2)",
+          "optimizacion": "Implement the proposed antenna design in CubeSat applications to save space and power (p. 2)",
+          "ganancia": "8 dBi (p. 2)",
+          "tipo_antena": "Single-feed circularly polarized wideband printed antenna (p. 1)",
+          "banda": "X-band (7.02 GHz to 8.26 GHz) (p. 1)",
+          "material": "Rogers RT/duroid 6010 and Rogers RT/duroid 5880 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Hossen",
+        "año": "2021",
+        "info": {
+          "autores": "Hossen, M.S.; Noman, S.",
+          "año": "2021",
+          "titulo": "Antenna Design for University Low Cost Student-Built CubeSat Missions",
+          "software": "CST (p. 3)",
+          "optimizacion": "Further testing and validation in real CubeSat missions (p. 3)",
+          "ganancia": "7.114 dBi (p. 3)",
+          "tipo_antena": "S-band coaxial feed patch antenna (p. 1)",
+          "banda": "2 - 4 GHz (S Band) (p. 2)",
+          "material": "Rogers RT5870 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Inojosa",
+        "año": "2023",
+        "info": {
+          "autores": "Raynell A. Inojosa; Inojosa, J.; Alam, T.; Mengu Cho; Celso B. Co; Lokman, A.",
+          "año": "2023",
+          "titulo": "Integration of a UHF Fractal Antenna into a 1U CubeSat for Low-Earth Orbit Mission",
+          "software": "HFSS (p. 2)",
+          "optimizacion": "Use a ground plane with a similar geometry as the radiating patch (p. 11); Consider the CubeSat frame in antenna design (p. 11); Consider the impact of other CubeSat modules on the antenna performance in future designs (p. 9)",
+          "ganancia": "3.148 dBi (measured) (p. 9)",
+          "tipo_antena": "Sierpinski gasket fractal antenna (p. 11)",
+          "banda": "800 MHz to 1 GHz (p. 11)",
+          "material": "FR4 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Islam",
+        "año": "2015",
+        "info": {
+          "autores": "M. T. Islam; S. Kibria; Md. Samsuzzaman; Mengu Cho; Mohammad Tariqul Islam; M. Samsuzzaman; Salehin Kibria",
+          "año": "2015",
+          "titulo": "Design of CP, High-Gain, Single-Feed, and Single-Layer S-Band Patch Antenna for Small-Satellite Applications",
+          "software": "HFSS 15 (p. 4)",
+          "optimizacion": "Further testing and integration of the antenna with other small satellites (p. 6); Integrate the antenna with the satellite body using nonconducting glue (p. 5)",
+          "ganancia": "7.29 dBi (p. 4)",
+          "tipo_antena": "Compact single-layer coaxial-probe-fed circularly polarized high-gain patch antenna (p. 1)",
+          "banda": "S-band (2.2450 to 2.3075 GHz) (p. 6)",
+          "material": "Rogers substrate (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Islam",
+        "año": "2014",
+        "info": {
+          "autores": "M. T. Islam; M. Samsuzzaman; S. Kibria; Mengu Cho",
+          "año": "2014",
+          "titulo": "Development of S band antenna for Nanosatellite",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Integrate the designed antenna with the HORYU-IV nanosatellite for high data-rate downlink channel (p. 2)",
+          "ganancia": "7.29 dBi (p. 3)",
+          "tipo_antena": "Circularly polarized, high gain, single feed, single layer S band patch antenna (p. 1)",
+          "banda": "2.285 GHz (p. 2)",
+          "material": "Rogers’s substrate (p. 1)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Zhu",
+        "año": "2025",
+        "info": {
+          "autores": "Zhu, L.; Ji, F.Y.; Xiao-Hui Mao; Not mentioned; Wen-Jun Lu; Fei-Yan Ji; Mao, X.H.; Lei Zhu; Ji, E.; Lu, W.J.",
+          "año": "2025",
+          "titulo": "Semi-analytical design of dual-mode resonant microstrip antennas with electrically small patch size and tilted CP angle for satellite-assisted IoV",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Not mentioned; Further experimental validation of the antenna design in real-world IoV scenarios (p. 2); Use the semi-analytical design approach to design microstrip antennas for satellite applications (p. 9)",
+          "ganancia": "5.16 dBic (p. 9)",
+          "tipo_antena": "Microstrip annular sector patch antenna (MASPA) (p. 2)",
+          "banda": "2.31–3.02 GHz (p. 8)",
+          "material": "Air (p. 4)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Jiménez",
+        "año": "2023",
+        "info": {
+          "autores": "Jiménez, D.A.; A.R.; Balderas, L.I.; D.A.J.; Panduro, M.A.; M.A.P.; L.I.B.; Reyna, A.",
+          "año": "2023",
+          "titulo": "Design of 4 × 4 Low-Proﬁle Antenna Array for CubeSat Applications",
+          "software": "CST Studio Suite® (p. 11)",
+          "optimizacion": "Optimize antenna excitations for better performance (p. 11); Further optimization of the feeding network to improve performance (p. 9); Use the proposed design for 5G applications in CubeSats (p. 11)",
+          "ganancia": "High gain (p. 11)",
+          "tipo_antena": "Low-profile microstrip antenna array (p. 11)",
+          "banda": "5G frequency band (p. 11)",
+          "material": "Rogers TMM10 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Johnson",
+        "año": "2020",
+        "info": {
+          "autores": "Johnson, A.; Volakis, J. L.; Manohar, V.; Alexander D. Johnson; Satheesh Bojja Venkatakrishnan; Venkatakrishnan, S. B.; Vignesh Manohar; John L. Volakis",
+          "año": "2020",
+          "titulo": "Low-Cost S-Band Reconfigurable Monopole/Patch Antenna for CubeSats",
+          "software": "Altair FEKO (p. 2)",
+          "optimizacion": "Use adhesive polyimide tapes for reconfigurable antenna designs in CubeSats (p. 1); Further studies on antenna space qualification for specific applications (p. 5)",
+          "ganancia": "Patch mode: 7.7 dBi, Monopole mode: 1.2 dBi (p. 4)",
+          "tipo_antena": "Reconfigurable S-band monopole/patch antenna (p. 1)",
+          "banda": "S-band (2.4 GHz) (p. 1)",
+          "material": "Rogers Arlon DiClad 880 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Juarez-Ortiz",
+        "año": "2018",
+        "info": {
+          "autores": "Vladimir A. Juarez-Ortiz; Robert Perea-Tamayo",
+          "año": "2018",
+          "titulo": "Design of a C-band High Gain Microstrip Antenna Array for CubeSat Standard",
+          "software": "HFSS (p. 2)",
+          "optimizacion": "Further testing and validation in real-world CubeSat environments (p. 3)",
+          "ganancia": "13.34 dB (p. 2)",
+          "tipo_antena": "Microstrip antenna array (p. 1)",
+          "banda": "C-band (5.8 GHz) (p. 1)",
+          "material": "RT/duroid®6002 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "M.H.K.",
+        "año": "2023",
+        "info": {
+          "autores": "M.H.K.; S.I.L.; Khan, M.H.; Kabir, S.S.; Not mentioned; Latif, S.I.; S.S.K.",
+          "año": "2023",
+          "titulo": "A Multi-Band Circularly Polarized-Shared Aperture Antenna for Space Applications at S and X Bands",
+          "software": "Ansys HFSS 2022 (p. 5)",
+          "optimizacion": "Not mentioned; Use the proposed antenna for CubeSat applications to reduce size and complexity (p. 9); Integrate the shared aperture antenna design in CubeSat missions to optimize space and performance (p. 1)",
+          "ganancia": "7.7 dBic (S-band), 12.8 dBic (X-band) (p. 1)",
+          "tipo_antena": "Shared aperture antenna with S-band and X-band patches (p. 1)",
+          "banda": "S-band (2.013-2.043 GHz) and X-band (8.320-8.530 GHz) (p. 5)",
+          "material": "Rogers RT/duroid 5880 (p. 3)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Kabir",
+        "año": "2022",
+        "info": {
+          "autores": "Syed Salman Kabir; Saeed I. Latif",
+          "año": "2022",
+          "titulo": "Dual Band High Gain Shared Aperture Antenna for CubeSat Application",
+          "software": "Ansys HFSS 2020 (p. 2)",
+          "optimizacion": "The design can be further improved by introducing an array of X-band antennas inside the perforations of the S-band antenna (p. 2)",
+          "ganancia": "7.7dBic (S-band), 12.8dBic (X-band) (p. 2)",
+          "tipo_antena": "Circularly polarized shared aperture antenna (SAA) (p. 1)",
+          "banda": "S-band (2.03 GHz) and X-band (8.45 GHz) (p. 1)",
+          "material": "Rogers RT/duroid 5880 (p. 2)",
+          "conclusiones": ""
+        }
+      },
+      {
+        "autor": "Kakoyiannis",
+        "año": "2008",
+        "info": {
+          "autores": "Kakoyiannis, C. G.; Constantinou, P.; Not mentioned",
+          "año": "2008",
+          "titulo": "A Compact Microstrip Antenna with Tapered Peripheral Slits for CubeSat RF Payloads at 436 MHz: Miniaturization techniques, design & numerical results",
+          "software": "Not mentioned",
+          "optimizacion": "Not mentioned; Use the proposed design for CubeSat applications where miniaturization and circular polarization are required (p. 4)",
+          "ganancia": "0.7 – 1.4 dBi (p. 4)",
+          "tipo_antena": "Microstrip patch antenna with tapered peripheral slits (p. 1)",
+          "banda": "434.8–438 MHz (p. 1)",
+          "material": "Rogers RT/Duroid ™ 6006 or Rogers RO3006™ (p. 2)",
+          "conclusiones": ""
+        }
+      }
+    ]
+  }
+}

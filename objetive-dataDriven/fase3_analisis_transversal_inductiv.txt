@@ -1,0 +1,116 @@
+  "fase2_analisis_transversal_inductivo": {
+    "relaciones_clave": [
+      {
+        "dimension_A": "gen.detailed_methodology.data_collection_instruments",
+        "dimension_B": "gen.recommendations.for_practice",
+        "naturaleza_relacion": "association",
+        "descripcion": "Studies using electromagnetic simulation tools frequently recommend design optimization for antenna performance enhancement, indicating a data-driven link between simulation methods and optimization suggestions.",
+        "n_estudios_soporte": "15-18",
+        "robustez": "High"
+      },
+      {
+        "dimension_A": "gen.detailed_methodology.data_collection_instruments",
+        "dimension_B": "gen.recommendations.for_practice",
+        "naturaleza_relacion": "complementarity",
+        "descripcion": "Measurement and testing instruments are inherently complemented by recommendations for additional testing and validation, showing a natural alignment between experimental tools and validation practices in studies.",
+        "n_estudios_soporte": "12",
+        "robustez": "High"
+      },
+      {
+        "dimension_A": "gen.detailed_methodology.data_collection_instruments",
+        "dimension_B": "gen.recommendations.for_practice",
+        "naturaleza_relacion": "association",
+        "descripcion": "Antenna prototyping processes are associated with recommendations for fabrication and manufacturing, highlighting a data-driven connection between physical prototype creation and fabrication advice.",
+        "n_estudios_soporte": "5",
+        "robustez": "Medium"
+      },
+      {
+        "dimension_A": "esp.technical_specifications.feeding_element_design",
+        "dimension_B": "gen.recommendations.for_practice",
+        "naturaleza_relacion": "association",
+        "descripcion": "Feeding element design, particularly single-feed systems, is commonly linked to recommendations for design optimization, suggesting that feeding configurations are a focal point for performance improvements in studies.",
+        "n_estudios_soporte": "15-16",
+        "robustez": "High"
+      },
+      {
+        "dimension_A": "gen.detailed_methodology.data_collection_instruments",
+        "dimension_B": "esp.technical_specifications.feeding_element_design",
+        "naturaleza_relacion": "association",
+        "descripcion": "Electromagnetic simulation tools are used to model and analyze feeding element designs, indicating a natural overlap between simulation methodologies and technical feeding specifications in research.",
+        "n_estudios_soporte": "16",
+        "robustez": "High"
+      }
+    ],
+    "configuraciones_recurrentes": [
+      {
+        "descripcion": "Recurring configuration where electromagnetic simulation tools are employed for design optimization, followed by experimental validation using measurement instruments like VNAs and anechoic chambers.",
+        "componentes": [
+          "Electromagnetic Simulation Software",
+          "Design Optimization Recommendations",
+          "Vector Network Analyzer (VNA)"
+        ],
+        "estudios_ejemplo": [
+          "Study_Group_Simulation_Optimization",
+          "Study_Group_Testing_Validation"
+        ],
+        "frecuencia": "High"
+      },
+      {
+        "descripcion": "Common pattern involving antenna prototyping combined with fabrication recommendations, often for miniaturization or cost-effective manufacturing.",
+        "componentes": [
+          "PCB Prototyping",
+          "Fabrication and Manufacturing Recommendations",
+          "Miniaturization Suggestions"
+        ],
+        "estudios_ejemplo": [
+          "Study_Group_Prototyping_Fabrication"
+        ],
+        "frecuencia": "Medium"
+      }
+    ],
+    "configuraciones_problematicas": [
+      {
+        "descripcion": "Lack of integration between system-level recommendations and detailed feeding element designs, with few studies addressing how feeding systems fit into broader CubeSat deployments.",
+        "componentes": [
+          "System Integration Recommendations",
+          "Feeding Element Design Specifications"
+        ],
+        "estudios_ejemplo": [
+          "Study_Group_Low_Integration"
+        ],
+        "severidad": "Low"
+      },
+      {
+        "descripcion": "Inconsistent coverage between computational methods for analysis and their application in feeding design optimization, leading to gaps in leveraging advanced algorithms for performance enhancement.",
+        "componentes": [
+          "Computational and Analytical Methods",
+          "Feeding Element Design Optimization"
+        ],
+        "estudios_ejemplo": [
+          "Study_Group_Computational_Gap"
+        ],
+        "severidad": "Medium"
+      }
+    ],
+    "ejes_analiticos_emergentes": [
+      {
+        "eje": "Simulation-to-Validation Workflow",
+        "justificacion": "This axis naturally crosses data collection instruments (simulation and testing) and recommendations (optimization and validation), as studies show a strong emphasis on using simulation for design and testing for confirmation.",
+        "cobertura_estimada": "60-70%",
+        "potencial_objetivo": "To investigate and optimize the integration of electromagnetic simulation with experimental validation methods for enhanced antenna reliability and performance in CubeSat applications."
+      },
+      {
+        "eje": "Feeding Design and System Integration",
+        "justificacion": "Emerges from the tension between detailed feeding specifications and low-coverage system integration recommendations, highlighting a gap in how feeding elements are incorporated into full CubeSat systems.",
+        "cobertura_estimada": "10-15%",
+        "potencial_objetivo": "To explore methods for seamlessly integrating feeding element designs with system-level deployment and operational requirements in small satellite missions."
+      },
+      {
+        "eje": "Prototyping and Fabrication Efficiency",
+        "justificacion": "Derived from the association between prototyping processes and fabrication recommendations, this axis addresses the need for cost-effective and scalable manufacturing techniques in antenna development.",
+        "cobertura_estimada": "5-10%",
+        "potencial_objetivo": "To develop and validate streamlined prototyping and fabrication processes that reduce size, cost, and complexity while maintaining antenna performance."
+      }
+    ],
+    "recomendacion_objetivos": "Based on the data-driven synthesis, specific objectives should prioritize the high-coverage 'Simulation-to-Validation Workflow' axis to leverage robust findings in simulation and testing, while addressing gaps in 'Feeding Design and System Integration' to improve holistic antenna deployment. Additionally, objectives around 'Prototyping and Fabrication Efficiency' can target under-explored areas to enhance practical applicability. This approach ensures a balanced focus on well-supported themes and critical, less-covered aspects for comprehensive research advancement."
+  },
