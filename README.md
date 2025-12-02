@@ -169,7 +169,7 @@ If you use this dataset or analysis in your research, please cite:
   author = {[Author Name]},
   year = {2024},
   note = {PRISMA 2020 systematic review},
-  url = {https://github.com/[username]/cubesat-microstrip-antenna-review}
+  url = {https://github.com/sefran1020/RevSisCubesatNov25}
 }
 ```
 
