@@ -165,8 +165,8 @@ If you use this dataset or analysis in your research, please cite:
 
 ```bibtex
 @misc{cubesat_microstrip_review_2024,
-  title = {Systematic Review: Microstrip Antenna Design for CubeSat},
-  author = {[Author Name]},
+  title = { Systematic Evidence of Progressive Workflow  Discontinuities in CubeSat Microstrip Antenna  Design: From Electromagnetic Optimization to  System Integration},
+  author = {Segundo-Francisco Segura A.},
   year = {2024},
   note = {PRISMA 2020 systematic review},
   url = {https://github.com/sefran1020/RevSisCubesatNov25}
